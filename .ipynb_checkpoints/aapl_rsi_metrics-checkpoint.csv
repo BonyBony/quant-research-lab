@@ -1,0 +1,2 @@
+cumulative_return,annualized_return,annualized_volatility,sharpe_ratio,sortino_ratio,k_ratio,max_drawdown,total_trades,average_contracts,avg_profit_per_contract,avg_bars_win,avg_bars_loss,win_rate,average_trade_return,profit_factor,correlation_to_breakout,correlation_to_ma_10_40
+-0.7371336206245417,-0.1252554358657897,0.25218808546461136,-0.40693910991064686,-0.0014177691634495422,-151.62639438942801,-0.7917346044252167,30,0.0,,27.8,65.4,0.5,0.0,0.24243700569123172,,

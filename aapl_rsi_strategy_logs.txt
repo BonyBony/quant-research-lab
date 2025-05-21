@@ -1,0 +1,2676 @@
+2024-12-31, Strategy initialized.
+2015-07-09, RSI: 28.11, Position: 0
+2015-07-09, Placing BUY for size: 2998 (retry 0)
+2015-07-09, 📈 BUY SIGNAL placed with size 2998
+2015-07-10, BUY EXECUTED at 30.49 for 2998 units
+2015-07-10, RSI: 41.13, Position: 2998
+2015-07-13, RSI: 48.57, Position: 2998
+2015-07-14, RSI: 48.43, Position: 2998
+2015-07-15, RSI: 52.00, Position: 2998
+2015-07-15, 🔁 CLOSING LONG: RSI crossed above 50
+2015-07-16, SELL EXECUTED at 31.93 for -2998 units
+2015-07-16, ⚠️ Contract fallback used: 1
+2015-07-16, 📦 TRADE LOGGED: contracts=1, pnl=4347.096569061279
+2015-07-16, RSI: 56.52, Position: 0
+2015-07-17, RSI: 59.24, Position: 0
+2015-07-20, RSI: 64.51, Position: 0
+2015-07-21, RSI: 60.01, Position: 0
+2015-07-22, RSI: 45.64, Position: 0
+2015-07-23, RSI: 45.51, Position: 0
+2015-07-24, RSI: 44.05, Position: 0
+2015-07-27, RSI: 40.40, Position: 0
+2015-07-28, RSI: 42.22, Position: 0
+2015-07-29, RSI: 41.35, Position: 0
+2015-07-30, RSI: 39.95, Position: 0
+2015-07-31, RSI: 37.57, Position: 0
+2015-08-03, RSI: 32.08, Position: 0
+2015-08-04, RSI: 26.53, Position: 0
+2015-08-04, Placing BUY for size: 3276 (retry 0)
+2015-08-04, 📈 BUY SIGNAL placed with size 3276
+2015-08-05, BUY EXECUTED at 28.24 for 3276 units
+2015-08-05, RSI: 29.17, Position: 3276
+2015-08-06, RSI: 28.78, Position: 3276
+2015-08-07, RSI: 30.25, Position: 3276
+2015-08-10, RSI: 43.72, Position: 3276
+2015-08-11, RSI: 33.41, Position: 3276
+2015-08-12, RSI: 37.85, Position: 3276
+2015-08-13, RSI: 37.71, Position: 3276
+2015-08-14, RSI: 39.85, Position: 3276
+2015-08-17, RSI: 42.98, Position: 3276
+2015-08-18, RSI: 41.69, Position: 3276
+2015-08-19, RSI: 38.87, Position: 3276
+2015-08-20, RSI: 34.84, Position: 3276
+2015-08-21, RSI: 26.28, Position: 3276
+2015-08-24, RSI: 23.86, Position: 3276
+2015-08-25, RSI: 25.60, Position: 3276
+2015-08-26, RSI: 39.76, Position: 3276
+2015-08-27, RSI: 45.79, Position: 3276
+2015-08-28, RSI: 46.45, Position: 3276
+2015-08-31, RSI: 45.59, Position: 3276
+2015-09-01, RSI: 38.34, Position: 3276
+2015-09-02, RSI: 46.71, Position: 3276
+2015-09-03, RSI: 43.97, Position: 3276
+2015-09-04, RSI: 42.47, Position: 3276
+2015-09-08, RSI: 47.77, Position: 3276
+2015-09-09, RSI: 44.62, Position: 3276
+2015-09-10, RSI: 48.70, Position: 3276
+2015-09-11, RSI: 51.31, Position: 3276
+2015-09-11, 🔁 CLOSING LONG: RSI crossed above 50
+2015-09-14, SELL EXECUTED at 29.15 for -3276 units
+2015-09-14, ⚠️ Contract fallback used: 1
+2015-09-14, 📦 TRADE LOGGED: contracts=1, pnl=2972.9739990234375
+2015-09-14, RSI: 53.04, Position: 0
+2015-09-15, RSI: 54.57, Position: 0
+2015-09-16, RSI: 54.79, Position: 0
+2015-09-17, RSI: 49.96, Position: 0
+2015-09-18, RSI: 49.08, Position: 0
+2015-09-21, RSI: 52.45, Position: 0
+2015-09-22, RSI: 48.87, Position: 0
+2015-09-23, RSI: 50.71, Position: 0
+2015-09-24, RSI: 52.09, Position: 0
+2015-09-25, RSI: 51.43, Position: 0
+2015-09-28, RSI: 46.47, Position: 0
+2015-09-29, RSI: 40.25, Position: 0
+2015-09-30, RSI: 43.25, Position: 0
+2015-10-01, RSI: 41.93, Position: 0
+2015-10-02, RSI: 43.97, Position: 0
+2015-10-05, RSI: 45.01, Position: 0
+2015-10-06, RSI: 46.44, Position: 0
+2015-10-07, RSI: 45.18, Position: 0
+2015-10-08, RSI: 42.21, Position: 0
+2015-10-09, RSI: 49.53, Position: 0
+2015-10-12, RSI: 48.22, Position: 0
+2015-10-13, RSI: 48.75, Position: 0
+2015-10-14, RSI: 44.65, Position: 0
+2015-10-15, RSI: 49.43, Position: 0
+2015-10-16, RSI: 47.25, Position: 0
+2015-10-19, RSI: 49.28, Position: 0
+2015-10-20, RSI: 54.82, Position: 0
+2015-10-21, RSI: 54.79, Position: 0
+2015-10-22, RSI: 59.20, Position: 0
+2015-10-23, RSI: 66.45, Position: 0
+2015-10-26, RSI: 55.23, Position: 0
+2015-10-27, RSI: 53.37, Position: 0
+2015-10-28, RSI: 62.24, Position: 0
+2015-10-29, RSI: 64.20, Position: 0
+2015-10-30, RSI: 61.40, Position: 0
+2015-11-02, RSI: 64.15, Position: 0
+2015-11-03, RSI: 66.29, Position: 0
+2015-11-04, RSI: 64.58, Position: 0
+2015-11-05, RSI: 61.37, Position: 0
+2015-11-06, RSI: 61.63, Position: 0
+2015-11-09, RSI: 60.07, Position: 0
+2015-11-10, RSI: 49.57, Position: 0
+2015-11-11, RSI: 48.00, Position: 0
+2015-11-12, RSI: 47.06, Position: 0
+2015-11-13, RSI: 39.73, Position: 0
+2015-11-16, RSI: 44.77, Position: 0
+2015-11-17, RSI: 43.72, Position: 0
+2015-11-18, RSI: 52.52, Position: 0
+2015-11-19, RSI: 55.61, Position: 0
+2015-11-20, RSI: 56.67, Position: 0
+2015-11-23, RSI: 52.64, Position: 0
+2015-11-24, RSI: 55.14, Position: 0
+2015-11-25, RSI: 52.88, Position: 0
+2015-11-27, RSI: 52.28, Position: 0
+2015-11-30, RSI: 53.54, Position: 0
+2015-12-01, RSI: 50.71, Position: 0
+2015-12-02, RSI: 47.71, Position: 0
+2015-12-03, RSI: 44.80, Position: 0
+2015-12-04, RSI: 55.22, Position: 0
+2015-12-07, RSI: 53.11, Position: 0
+2015-12-08, RSI: 52.96, Position: 0
+2015-12-09, RSI: 45.89, Position: 0
+2015-12-10, RSI: 47.48, Position: 0
+2015-12-11, RSI: 40.50, Position: 0
+2015-12-14, RSI: 39.06, Position: 0
+2015-12-15, RSI: 35.20, Position: 0
+2015-12-16, RSI: 38.02, Position: 0
+2015-12-17, RSI: 33.65, Position: 0
+2015-12-18, RSI: 29.15, Position: 0
+2015-12-18, Placing BUY for size: 3643 (retry 0)
+2015-12-18, 📈 BUY SIGNAL placed with size 3643
+2015-12-21, BUY EXECUTED at 26.82 for 3643 units
+2015-12-21, RSI: 33.38, Position: 3643
+2015-12-22, RSI: 33.21, Position: 3643
+2015-12-23, RSI: 37.77, Position: 3643
+2015-12-24, RSI: 36.64, Position: 3643
+2015-12-28, RSI: 34.33, Position: 3643
+2015-12-29, RSI: 40.71, Position: 3643
+2015-12-30, RSI: 37.79, Position: 3643
+2015-12-31, RSI: 33.97, Position: 3643
+2016-01-04, RSI: 34.28, Position: 3643
+2016-01-05, RSI: 29.83, Position: 3643
+2016-01-06, RSI: 26.96, Position: 3643
+2016-01-07, RSI: 22.11, Position: 3643
+2016-01-08, RSI: 23.88, Position: 3643
+2016-01-11, RSI: 29.21, Position: 3643
+2016-01-12, RSI: 33.76, Position: 3643
+2016-01-13, RSI: 30.02, Position: 3643
+2016-01-14, RSI: 36.31, Position: 3643
+2016-01-15, RSI: 32.76, Position: 3643
+2016-01-19, RSI: 32.09, Position: 3643
+2016-01-20, RSI: 32.50, Position: 3643
+2016-01-21, RSI: 31.72, Position: 3643
+2016-01-22, RSI: 46.17, Position: 3643
+2016-01-25, RSI: 42.43, Position: 3643
+2016-01-26, RSI: 43.79, Position: 3643
+2016-01-27, RSI: 33.58, Position: 3643
+2016-01-28, RSI: 35.23, Position: 3643
+2016-01-29, RSI: 42.71, Position: 3643
+2016-02-01, RSI: 41.27, Position: 3643
+2016-02-02, RSI: 38.30, Position: 3643
+2016-02-03, RSI: 42.57, Position: 3643
+2016-02-04, RSI: 43.14, Position: 3643
+2016-02-05, RSI: 38.88, Position: 3643
+2016-02-08, RSI: 41.27, Position: 3643
+2016-02-09, RSI: 41.24, Position: 3643
+2016-02-10, RSI: 39.92, Position: 3643
+2016-02-11, RSI: 38.86, Position: 3643
+2016-02-12, RSI: 39.74, Position: 3643
+2016-02-16, RSI: 47.19, Position: 3643
+2016-02-17, RSI: 50.85, Position: 3643
+2016-02-17, 🔁 CLOSING LONG: RSI crossed above 50
+2016-02-18, SELL EXECUTED at 24.71 for -3643 units
+2016-02-18, ⚠️ Contract fallback used: 1
+2016-02-18, 📦 TRADE LOGGED: contracts=1, pnl=-7686.732223510742
+2016-02-18, RSI: 46.49, Position: 0
+2016-02-19, RSI: 45.99, Position: 0
+2016-02-22, RSI: 48.29, Position: 0
+2016-02-23, RSI: 43.14, Position: 0
+2016-02-24, RSI: 47.05, Position: 0
+2016-02-25, RSI: 48.83, Position: 0
+2016-02-26, RSI: 49.24, Position: 0
+2016-02-29, RSI: 48.62, Position: 0
+2016-03-01, RSI: 58.52, Position: 0
+2016-03-02, RSI: 59.01, Position: 0
+2016-03-03, RSI: 60.70, Position: 0
+2016-03-04, RSI: 63.94, Position: 0
+2016-03-07, RSI: 59.93, Position: 0
+2016-03-08, RSI: 57.09, Position: 0
+2016-03-09, RSI: 57.32, Position: 0
+2016-03-10, RSI: 57.46, Position: 0
+2016-03-11, RSI: 60.47, Position: 0
+2016-03-14, RSI: 61.17, Position: 0
+2016-03-15, RSI: 66.31, Position: 0
+2016-03-16, RSI: 69.26, Position: 0
+2016-03-17, RSI: 68.47, Position: 0
+2016-03-18, RSI: 68.74, Position: 0
+2016-03-21, RSI: 68.69, Position: 0
+2016-03-22, RSI: 70.66, Position: 0
+2016-03-22, Placing SELL for size: 3360 (retry 0)
+2016-03-22, 📉 SELL SIGNAL placed with size 3360
+2016-03-23, SELL EXECUTED at 26.62 for -3360 units
+2016-03-23, RSI: 67.33, Position: -3360
+2016-03-24, RSI: 64.77, Position: -3360
+2016-03-28, RSI: 62.11, Position: -3360
+2016-03-29, RSI: 69.18, Position: -3360
+2016-03-30, RSI: 73.23, Position: -3360
+2016-03-31, RSI: 70.22, Position: -3360
+2016-04-01, RSI: 72.37, Position: -3360
+2016-04-04, RSI: 74.60, Position: -3360
+2016-04-05, RSI: 67.76, Position: -3360
+2016-04-06, RSI: 70.33, Position: -3360
+2016-04-07, RSI: 59.57, Position: -3360
+2016-04-08, RSI: 59.90, Position: -3360
+2016-04-11, RSI: 60.92, Position: -3360
+2016-04-12, RSI: 64.74, Position: -3360
+2016-04-13, RSI: 68.48, Position: -3360
+2016-04-14, RSI: 68.62, Position: -3360
+2016-04-15, RSI: 58.54, Position: -3360
+2016-04-18, RSI: 50.17, Position: -3360
+2016-04-19, RSI: 48.38, Position: -3360
+2016-04-19, 🔁 CLOSING SHORT: RSI crossed below 50
+2016-04-20, BUY EXECUTED at 26.66 for 3360 units
+2016-04-20, ⚠️ Contract fallback used: 1
+2016-04-20, 📦 TRADE LOGGED: contracts=1, pnl=-134.39666748046875
+2016-04-20, RSI: 49.14, Position: 0
+2016-04-21, RSI: 45.37, Position: 0
+2016-04-22, RSI: 44.45, Position: 0
+2016-04-25, RSI: 42.54, Position: 0
+2016-04-26, RSI: 40.26, Position: 0
+2016-04-27, RSI: 26.58, Position: 0
+2016-04-27, Placing BUY for size: 3661 (retry 0)
+2016-04-27, 📈 BUY SIGNAL placed with size 3661
+2016-04-28, BUY EXECUTED at 24.40 for 3661 units
+2016-04-28, RSI: 22.76, Position: 3661
+2016-04-29, RSI: 21.55, Position: 3661
+2016-05-02, RSI: 21.44, Position: 3661
+2016-05-03, RSI: 27.72, Position: 3661
+2016-05-04, RSI: 26.27, Position: 3661
+2016-05-05, RSI: 24.91, Position: 3661
+2016-05-06, RSI: 24.18, Position: 3661
+2016-05-09, RSI: 24.50, Position: 3661
+2016-05-10, RSI: 27.49, Position: 3661
+2016-05-11, RSI: 25.90, Position: 3661
+2016-05-12, RSI: 22.54, Position: 3661
+2016-05-13, RSI: 23.43, Position: 3661
+2016-05-16, RSI: 37.75, Position: 3661
+2016-05-17, RSI: 36.88, Position: 3661
+2016-05-18, RSI: 40.87, Position: 3661
+2016-05-19, RSI: 39.96, Position: 3661
+2016-05-20, RSI: 43.80, Position: 3661
+2016-05-23, RSI: 48.04, Position: 3661
+2016-05-24, RSI: 52.72, Position: 3661
+2016-05-24, 🔁 CLOSING LONG: RSI crossed above 50
+2016-05-25, SELL EXECUTED at 24.67 for -3661 units
+2016-05-25, ⚠️ Contract fallback used: 1
+2016-05-25, 📦 TRADE LOGGED: contracts=1, pnl=970.1627655029297
+2016-05-25, RSI: 57.53, Position: 0
+2016-05-26, RSI: 59.56, Position: 0
+2016-05-27, RSI: 59.33, Position: 0
+2016-05-31, RSI: 57.36, Position: 0
+2016-06-01, RSI: 52.04, Position: 0
+2016-06-02, RSI: 49.44, Position: 0
+2016-06-03, RSI: 50.16, Position: 0
+2016-06-06, RSI: 52.76, Position: 0
+2016-06-07, RSI: 54.21, Position: 0
+2016-06-08, RSI: 53.81, Position: 0
+2016-06-09, RSI: 56.53, Position: 0
+2016-06-10, RSI: 52.67, Position: 0
+2016-06-13, RSI: 46.46, Position: 0
+2016-06-14, RSI: 47.00, Position: 0
+2016-06-15, RSI: 45.67, Position: 0
+2016-06-16, RSI: 47.71, Position: 0
+2016-06-17, RSI: 39.15, Position: 0
+2016-06-20, RSI: 38.38, Position: 0
+2016-06-21, RSI: 42.65, Position: 0
+2016-06-22, RSI: 41.28, Position: 0
+2016-06-23, RSI: 44.23, Position: 0
+2016-06-24, RSI: 34.96, Position: 0
+2016-06-27, RSI: 31.39, Position: 0
+2016-06-28, RSI: 39.03, Position: 0
+2016-06-29, RSI: 42.62, Position: 0
+2016-06-30, RSI: 47.56, Position: 0
+2016-07-01, RSI: 48.71, Position: 0
+2016-07-05, RSI: 45.39, Position: 0
+2016-07-06, RSI: 47.69, Position: 0
+2016-07-07, RSI: 49.43, Position: 0
+2016-07-08, RSI: 52.51, Position: 0
+2016-07-11, RSI: 53.74, Position: 0
+2016-07-12, RSI: 55.56, Position: 0
+2016-07-13, RSI: 52.77, Position: 0
+2016-07-14, RSI: 60.27, Position: 0
+2016-07-15, RSI: 60.22, Position: 0
+2016-07-18, RSI: 63.86, Position: 0
+2016-07-19, RSI: 63.99, Position: 0
+2016-07-20, RSI: 64.31, Position: 0
+2016-07-21, RSI: 60.85, Position: 0
+2016-07-22, RSI: 56.12, Position: 0
+2016-07-25, RSI: 49.08, Position: 0
+2016-07-26, RSI: 45.93, Position: 0
+2016-07-27, RSI: 67.19, Position: 0
+2016-07-28, RSI: 70.00, Position: 0
+2016-07-29, RSI: 69.40, Position: 0
+2016-08-01, RSI: 72.93, Position: 0
+2016-08-01, Placing SELL for size: 3410 (retry 0)
+2016-08-01, 📉 SELL SIGNAL placed with size 3410
+2016-08-02, SELL EXECUTED at 26.51 for -3410 units
+2016-08-02, RSI: 65.94, Position: -3410
+2016-08-03, RSI: 68.64, Position: -3410
+2016-08-04, RSI: 68.80, Position: -3410
+2016-08-05, RSI: 71.96, Position: -3410
+2016-08-08, RSI: 73.55, Position: -3410
+2016-08-09, RSI: 74.32, Position: -3410
+2016-08-10, RSI: 70.24, Position: -3410
+2016-08-11, RSI: 69.88, Position: -3410
+2016-08-12, RSI: 70.46, Position: -3410
+2016-08-15, RSI: 73.33, Position: -3410
+2016-08-16, RSI: 72.74, Position: -3410
+2016-08-17, RSI: 71.76, Position: -3410
+2016-08-18, RSI: 70.85, Position: -3410
+2016-08-19, RSI: 71.62, Position: -3410
+2016-08-22, RSI: 65.92, Position: -3410
+2016-08-23, RSI: 67.05, Position: -3410
+2016-08-24, RSI: 61.74, Position: -3410
+2016-08-25, RSI: 58.91, Position: -3410
+2016-08-26, RSI: 55.19, Position: -3410
+2016-08-29, RSI: 54.49, Position: -3410
+2016-08-30, RSI: 49.80, Position: -3410
+2016-08-30, 🔁 CLOSING SHORT: RSI crossed below 50
+2016-08-31, BUY EXECUTED at 26.42 for 3410 units
+2016-08-31, ⚠️ Contract fallback used: 1
+2016-08-31, 📦 TRADE LOGGED: contracts=1, pnl=332.47447967529297
+2016-08-31, RSI: 50.36, Position: 0
+2016-09-01, RSI: 53.86, Position: 0
+2016-09-02, RSI: 58.82, Position: 0
+2016-09-06, RSI: 58.61, Position: 0
+2016-09-07, RSI: 61.75, Position: 0
+2016-09-08, RSI: 45.70, Position: 0
+2016-09-09, RSI: 36.99, Position: 0
+2016-09-12, RSI: 47.42, Position: 0
+2016-09-13, RSI: 55.96, Position: 0
+2016-09-14, RSI: 65.21, Position: 0
+2016-09-15, RSI: 71.60, Position: 0
+2016-09-15, Placing SELL for size: 3139 (retry 0)
+2016-09-15, 📉 SELL SIGNAL placed with size 3139
+2016-09-16, SELL EXECUTED at 28.78 for -3139 units
+2016-09-16, RSI: 69.26, Position: -3139
+2016-09-19, RSI: 64.57, Position: -3139
+2016-09-20, RSI: 64.53, Position: -3139
+2016-09-21, RSI: 64.45, Position: -3139
+2016-09-22, RSI: 66.70, Position: -3139
+2016-09-23, RSI: 59.48, Position: -3139
+2016-09-26, RSI: 59.89, Position: -3139
+2016-09-27, RSI: 60.43, Position: -3139
+2016-09-28, RSI: 62.65, Position: -3139
+2016-09-29, RSI: 55.72, Position: -3139
+2016-09-30, RSI: 58.17, Position: -3139
+2016-10-03, RSI: 56.13, Position: -3139
+2016-10-04, RSI: 57.58, Position: -3139
+2016-10-05, RSI: 57.74, Position: -3139
+2016-10-06, RSI: 60.39, Position: -3139
+2016-10-07, RSI: 60.92, Position: -3139
+2016-10-10, RSI: 66.59, Position: -3139
+2016-10-11, RSI: 67.23, Position: -3139
+2016-10-12, RSI: 69.84, Position: -3139
+2016-10-13, RSI: 67.83, Position: -3139
+2016-10-14, RSI: 69.53, Position: -3139
+2016-10-17, RSI: 69.05, Position: -3139
+2016-10-18, RSI: 68.53, Position: -3139
+2016-10-19, RSI: 66.21, Position: -3139
+2016-10-20, RSI: 65.80, Position: -3139
+2016-10-21, RSI: 62.58, Position: -3139
+2016-10-24, RSI: 66.59, Position: -3139
+2016-10-25, RSI: 68.66, Position: -3139
+2016-10-26, RSI: 53.00, Position: -3139
+2016-10-27, RSI: 48.07, Position: -3139
+2016-10-27, 🔁 CLOSING SHORT: RSI crossed below 50
+2016-10-28, BUY EXECUTED at 28.47 for 3139 units
+2016-10-28, ⚠️ Contract fallback used: 1
+2016-10-28, 📦 TRADE LOGGED: contracts=1, pnl=980.9375
+2016-10-28, RSI: 44.99, Position: 0
+2016-10-31, RSI: 44.26, Position: 0
+2016-11-01, RSI: 36.96, Position: 0
+2016-11-02, RSI: 37.51, Position: 0
+2016-11-03, RSI: 32.26, Position: 0
+2016-11-04, RSI: 29.73, Position: 0
+2016-11-04, Placing BUY for size: 3366 (retry 0)
+2016-11-04, 📈 BUY SIGNAL placed with size 3366
+2016-11-07, BUY EXECUTED at 27.52 for 3366 units
+2016-11-07, RSI: 38.01, Position: 3366
+2016-11-08, RSI: 41.10, Position: 3366
+2016-11-09, RSI: 40.50, Position: 3366
+2016-11-10, RSI: 31.86, Position: 3366
+2016-11-11, RSI: 34.96, Position: 3366
+2016-11-14, RSI: 28.94, Position: 3366
+2016-11-15, RSI: 35.13, Position: 3366
+2016-11-16, RSI: 45.62, Position: 3366
+2016-11-17, RSI: 45.51, Position: 3366
+2016-11-18, RSI: 45.90, Position: 3366
+2016-11-21, RSI: 51.52, Position: 3366
+2016-11-21, 🔁 CLOSING LONG: RSI crossed above 50
+2016-11-22, SELL EXECUTED at 27.99 for -3366 units
+2016-11-22, ⚠️ Contract fallback used: 1
+2016-11-22, 📦 TRADE LOGGED: contracts=1, pnl=1573.6008911132812
+2016-11-22, RSI: 51.75, Position: 0
+2016-11-23, RSI: 49.71, Position: 0
+2016-11-25, RSI: 51.72, Position: 0
+2016-11-28, RSI: 50.86, Position: 0
+2016-11-29, RSI: 50.41, Position: 0
+2016-11-30, RSI: 46.60, Position: 0
+2016-12-01, RSI: 42.79, Position: 0
+2016-12-02, RSI: 44.73, Position: 0
+2016-12-05, RSI: 41.79, Position: 0
+2016-12-06, RSI: 45.86, Position: 0
+2016-12-07, RSI: 50.64, Position: 0
+2016-12-08, RSI: 54.97, Position: 0
+2016-12-09, RSI: 61.12, Position: 0
+2016-12-12, RSI: 58.08, Position: 0
+2016-12-13, RSI: 63.73, Position: 0
+2016-12-14, RSI: 63.73, Position: 0
+2016-12-15, RSI: 65.52, Position: 0
+2016-12-16, RSI: 65.95, Position: 0
+2016-12-19, RSI: 67.89, Position: 0
+2016-12-20, RSI: 68.77, Position: 0
+2016-12-21, RSI: 69.10, Position: 0
+2016-12-22, RSI: 64.07, Position: 0
+2016-12-23, RSI: 64.89, Position: 0
+2016-12-27, RSI: 67.47, Position: 0
+2016-12-28, RSI: 64.05, Position: 0
+2016-12-29, RSI: 63.84, Position: 0
+2016-12-30, RSI: 57.68, Position: 0
+2017-01-03, RSI: 59.22, Position: 0
+2017-01-04, RSI: 58.32, Position: 0
+2017-01-05, RSI: 61.19, Position: 0
+2017-01-06, RSI: 66.65, Position: 0
+2017-01-09, RSI: 70.38, Position: 0
+2017-01-09, Placing SELL for size: 3127 (retry 0)
+2017-01-09, 📉 SELL SIGNAL placed with size 3127
+2017-01-10, SELL EXECUTED at 29.69 for -3127 units
+2017-01-10, RSI: 70.77, Position: -3127
+2017-01-11, RSI: 72.83, Position: -3127
+2017-01-12, RSI: 68.76, Position: -3127
+2017-01-13, RSI: 67.06, Position: -3127
+2017-01-17, RSI: 70.63, Position: -3127
+2017-01-18, RSI: 70.54, Position: -3127
+2017-01-19, RSI: 68.66, Position: -3127
+2017-01-20, RSI: 69.58, Position: -3127
+2017-01-23, RSI: 69.92, Position: -3127
+2017-01-24, RSI: 68.77, Position: -3127
+2017-01-25, RSI: 76.13, Position: -3127
+2017-01-26, RSI: 76.32, Position: -3127
+2017-01-27, RSI: 76.36, Position: -3127
+2017-01-30, RSI: 72.80, Position: -3127
+2017-01-31, RSI: 69.73, Position: -3127
+2017-02-01, RSI: 86.23, Position: -3127
+2017-02-02, RSI: 84.75, Position: -3127
+2017-02-03, RSI: 85.42, Position: -3127
+2017-02-06, RSI: 86.80, Position: -3127
+2017-02-07, RSI: 88.05, Position: -3127
+2017-02-08, RSI: 88.53, Position: -3127
+2017-02-09, RSI: 88.89, Position: -3127
+2017-02-10, RSI: 86.59, Position: -3127
+2017-02-13, RSI: 87.90, Position: -3127
+2017-02-14, RSI: 89.54, Position: -3127
+2017-02-15, RSI: 89.95, Position: -3127
+2017-02-16, RSI: 88.72, Position: -3127
+2017-02-17, RSI: 89.09, Position: -3127
+2017-02-21, RSI: 90.03, Position: -3127
+2017-02-22, RSI: 90.40, Position: -3127
+2017-02-23, RSI: 85.53, Position: -3127
+2017-02-24, RSI: 85.72, Position: -3127
+2017-02-27, RSI: 86.12, Position: -3127
+2017-02-28, RSI: 86.21, Position: -3127
+2017-03-01, RSI: 89.66, Position: -3127
+2017-03-02, RSI: 83.03, Position: -3127
+2017-03-03, RSI: 84.27, Position: -3127
+2017-03-06, RSI: 80.86, Position: -3127
+2017-03-07, RSI: 81.20, Position: -3127
+2017-03-08, RSI: 77.00, Position: -3127
+2017-03-09, RSI: 74.46, Position: -3127
+2017-03-10, RSI: 75.70, Position: -3127
+2017-03-13, RSI: 75.87, Position: -3127
+2017-03-14, RSI: 73.97, Position: -3127
+2017-03-15, RSI: 78.10, Position: -3127
+2017-03-16, RSI: 78.67, Position: -3127
+2017-03-17, RSI: 72.49, Position: -3127
+2017-03-20, RSI: 76.64, Position: -3127
+2017-03-21, RSI: 65.00, Position: -3127
+2017-03-22, RSI: 69.81, Position: -3127
+2017-03-23, RSI: 66.69, Position: -3127
+2017-03-24, RSI: 64.94, Position: -3127
+2017-03-27, RSI: 65.77, Position: -3127
+2017-03-28, RSI: 73.88, Position: -3127
+2017-03-29, RSI: 74.59, Position: -3127
+2017-03-30, RSI: 73.31, Position: -3127
+2017-03-31, RSI: 71.44, Position: -3127
+2017-04-03, RSI: 71.56, Position: -3127
+2017-04-04, RSI: 74.53, Position: -3127
+2017-04-05, RSI: 69.08, Position: -3127
+2017-04-06, RSI: 66.57, Position: -3127
+2017-04-07, RSI: 64.32, Position: -3127
+2017-04-10, RSI: 63.11, Position: -3127
+2017-04-11, RSI: 53.28, Position: -3127
+2017-04-12, RSI: 54.13, Position: -3127
+2017-04-13, RSI: 49.82, Position: -3127
+2017-04-13, 🔁 CLOSING SHORT: RSI crossed below 50
+2017-04-17, BUY EXECUTED at 35.37 for 3127 units
+2017-04-17, ⚠️ Contract fallback used: 1
+2017-04-17, 📦 TRADE LOGGED: contracts=1, pnl=-17753.5417842865
+2017-04-17, RSI: 53.93, Position: 0
+2017-04-18, RSI: 50.35, Position: 0
+2017-04-19, RSI: 47.54, Position: 0
+2017-04-20, RSI: 56.40, Position: 0
+2017-04-21, RSI: 55.42, Position: 0
+2017-04-24, RSI: 61.23, Position: 0
+2017-04-25, RSI: 64.47, Position: 0
+2017-04-26, RSI: 59.37, Position: 0
+2017-04-27, RSI: 59.81, Position: 0
+2017-04-28, RSI: 58.93, Position: 0
+2017-05-01, RSI: 69.17, Position: 0
+2017-05-02, RSI: 71.59, Position: 0
+2017-05-02, Placing SELL for size: 2089 (retry 0)
+2017-05-02, 📉 SELL SIGNAL placed with size 2089
+2017-05-03, SELL EXECUTED at 36.40 for -2089 units
+2017-05-03, RSI: 68.77, Position: -2089
+2017-05-04, RSI: 65.51, Position: -2089
+2017-05-05, RSI: 72.06, Position: -2089
+2017-05-08, RSI: 79.16, Position: -2089
+2017-05-09, RSI: 80.46, Position: -2089
+2017-05-10, RSI: 76.64, Position: -2089
+2017-05-11, RSI: 77.71, Position: -2089
+2017-05-12, RSI: 80.70, Position: -2089
+2017-05-15, RSI: 78.59, Position: -2089
+2017-05-16, RSI: 77.34, Position: -2089
+2017-05-17, RSI: 55.67, Position: -2089
+2017-05-18, RSI: 60.85, Position: -2089
+2017-05-19, RSI: 61.94, Position: -2089
+2017-05-22, RSI: 63.87, Position: -2089
+2017-05-23, RSI: 63.17, Position: -2089
+2017-05-24, RSI: 61.40, Position: -2089
+2017-05-25, RSI: 62.69, Position: -2089
+2017-05-26, RSI: 61.60, Position: -2089
+2017-05-30, RSI: 61.77, Position: -2089
+2017-05-31, RSI: 57.70, Position: -2089
+2017-06-01, RSI: 59.04, Position: -2089
+2017-06-02, RSI: 65.42, Position: -2089
+2017-06-05, RSI: 58.81, Position: -2089
+2017-06-06, RSI: 60.29, Position: -2089
+2017-06-07, RSI: 62.83, Position: -2089
+2017-06-08, RSI: 61.09, Position: -2089
+2017-06-09, RSI: 41.53, Position: -2089
+2017-06-09, 🔁 CLOSING SHORT: RSI crossed below 50
+2017-06-12, BUY EXECUTED at 36.44 for 2089 units
+2017-06-12, ⚠️ Contract fallback used: 1
+2017-06-12, 📦 TRADE LOGGED: contracts=1, pnl=-78.34228134155273
+2017-06-12, RSI: 34.48, Position: 0
+2017-06-13, RSI: 38.19, Position: 0
+2017-06-14, RSI: 35.54, Position: 0
+2017-06-15, RSI: 34.00, Position: 0
+2017-06-16, RSI: 30.66, Position: 0
+2017-06-19, RSI: 42.83, Position: 0
+2017-06-20, RSI: 40.34, Position: 0
+2017-06-21, RSI: 42.66, Position: 0
+2017-06-22, RSI: 42.17, Position: 0
+2017-06-23, RSI: 44.05, Position: 0
+2017-06-26, RSI: 42.98, Position: 0
+2017-06-27, RSI: 38.42, Position: 0
+2017-06-28, RSI: 44.77, Position: 0
+2017-06-29, RSI: 40.20, Position: 0
+2017-06-30, RSI: 41.22, Position: 0
+2017-07-03, RSI: 40.09, Position: 0
+2017-07-05, RSI: 42.03, Position: 0
+2017-07-06, RSI: 38.91, Position: 0
+2017-07-07, RSI: 43.71, Position: 0
+2017-07-10, RSI: 46.46, Position: 0
+2017-07-11, RSI: 47.92, Position: 0
+2017-07-12, RSI: 48.60, Position: 0
+2017-07-13, RSI: 54.72, Position: 0
+2017-07-14, RSI: 58.08, Position: 0
+2017-07-17, RSI: 59.41, Position: 0
+2017-07-18, RSI: 60.75, Position: 0
+2017-07-19, RSI: 63.12, Position: 0
+2017-07-20, RSI: 60.29, Position: 0
+2017-07-21, RSI: 59.99, Position: 0
+2017-07-24, RSI: 64.86, Position: 0
+2017-07-25, RSI: 66.44, Position: 0
+2017-07-26, RSI: 68.14, Position: 0
+2017-07-27, RSI: 55.85, Position: 0
+2017-07-28, RSI: 52.15, Position: 0
+2017-07-31, RSI: 49.58, Position: 0
+2017-08-01, RSI: 53.79, Position: 0
+2017-08-02, RSI: 68.83, Position: 0
+2017-08-03, RSI: 63.87, Position: 0
+2017-08-04, RSI: 65.28, Position: 0
+2017-08-07, RSI: 69.10, Position: 0
+2017-08-08, RSI: 70.91, Position: 0
+2017-08-08, Placing SELL for size: 1923 (retry 0)
+2017-08-08, 📉 SELL SIGNAL placed with size 1923
+2017-08-09, SELL EXECUTED at 39.81 for -1923 units
+2017-08-09, RSI: 72.26, Position: -1923
+2017-08-10, RSI: 55.89, Position: -1923
+2017-08-11, RSI: 59.60, Position: -1923
+2017-08-14, RSI: 63.25, Position: -1923
+2017-08-15, RSI: 65.72, Position: -1923
+2017-08-16, RSI: 64.00, Position: -1923
+2017-08-17, RSI: 56.45, Position: -1923
+2017-08-18, RSI: 55.63, Position: -1923
+2017-08-21, RSI: 54.93, Position: -1923
+2017-08-22, RSI: 59.73, Position: -1923
+2017-08-23, RSI: 60.09, Position: -1923
+2017-08-24, RSI: 58.12, Position: -1923
+2017-08-25, RSI: 59.32, Position: -1923
+2017-08-28, RSI: 62.45, Position: -1923
+2017-08-29, RSI: 65.05, Position: -1923
+2017-08-30, RSI: 65.83, Position: -1923
+2017-08-31, RSI: 67.00, Position: -1923
+2017-09-01, RSI: 67.09, Position: -1923
+2017-09-05, RSI: 59.91, Position: -1923
+2017-09-06, RSI: 59.32, Position: -1923
+2017-09-07, RSI: 57.01, Position: -1923
+2017-09-08, RSI: 48.73, Position: -1923
+2017-09-08, 🔁 CLOSING SHORT: RSI crossed below 50
+2017-09-11, BUY EXECUTED at 40.12 for 1923 units
+2017-09-11, ⚠️ Contract fallback used: 1
+2017-09-11, 📦 TRADE LOGGED: contracts=1, pnl=-596.132640838623
+2017-09-11, RSI: 56.20, Position: 0
+2017-09-12, RSI: 54.30, Position: 0
+2017-09-13, RSI: 50.81, Position: 0
+2017-09-14, RSI: 47.11, Position: 0
+2017-09-15, RSI: 51.54, Position: 0
+2017-09-18, RSI: 48.25, Position: 0
+2017-09-19, RSI: 48.42, Position: 0
+2017-09-20, RSI: 41.65, Position: 0
+2017-09-21, RSI: 36.17, Position: 0
+2017-09-22, RSI: 33.51, Position: 0
+2017-09-25, RSI: 31.29, Position: 0
+2017-09-26, RSI: 39.60, Position: 0
+2017-09-27, RSI: 42.74, Position: 0
+2017-09-28, RSI: 40.75, Position: 0
+2017-09-29, RSI: 43.26, Position: 0
+2017-10-02, RSI: 42.55, Position: 0
+2017-10-03, RSI: 44.68, Position: 0
+2017-10-04, RSI: 42.16, Position: 0
+2017-10-05, RSI: 48.17, Position: 0
+2017-10-06, RSI: 47.92, Position: 0
+2017-10-09, RSI: 49.62, Position: 0
+2017-10-10, RSI: 49.82, Position: 0
+2017-10-11, RSI: 52.01, Position: 0
+2017-10-12, RSI: 50.02, Position: 0
+2017-10-13, RSI: 53.47, Position: 0
+2017-10-16, RSI: 61.75, Position: 0
+2017-10-17, RSI: 63.19, Position: 0
+2017-10-18, RSI: 60.25, Position: 0
+2017-10-19, RSI: 47.56, Position: 0
+2017-10-20, RSI: 48.39, Position: 0
+2017-10-23, RSI: 48.15, Position: 0
+2017-10-24, RSI: 51.24, Position: 0
+2017-10-25, RSI: 48.91, Position: 0
+2017-10-26, RSI: 52.29, Position: 0
+2017-10-27, RSI: 65.98, Position: 0
+2017-10-30, RSI: 71.68, Position: 0
+2017-10-30, Placing SELL for size: 1833 (retry 0)
+2017-10-30, 📉 SELL SIGNAL placed with size 1833
+2017-10-31, SELL EXECUTED at 41.97 for -1833 units
+2017-10-31, RSI: 74.58, Position: -1833
+2017-11-01, RSI: 67.67, Position: -1833
+2017-11-02, RSI: 69.40, Position: -1833
+2017-11-03, RSI: 74.66, Position: -1833
+2017-11-06, RSI: 76.40, Position: -1833
+2017-11-07, RSI: 76.95, Position: -1833
+2017-11-08, RSI: 78.33, Position: -1833
+2017-11-09, RSI: 77.08, Position: -1833
+2017-11-10, RSI: 72.87, Position: -1833
+2017-11-13, RSI: 70.47, Position: -1833
+2017-11-14, RSI: 62.19, Position: -1833
+2017-11-15, RSI: 56.09, Position: -1833
+2017-11-16, RSI: 59.88, Position: -1833
+2017-11-17, RSI: 57.37, Position: -1833
+2017-11-20, RSI: 56.91, Position: -1833
+2017-11-21, RSI: 62.86, Position: -1833
+2017-11-22, RSI: 65.79, Position: -1833
+2017-11-24, RSI: 65.81, Position: -1833
+2017-11-27, RSI: 63.02, Position: -1833
+2017-11-28, RSI: 59.86, Position: -1833
+2017-11-29, RSI: 50.29, Position: -1833
+2017-11-30, RSI: 55.36, Position: -1833
+2017-12-01, RSI: 53.38, Position: -1833
+2017-12-04, RSI: 50.35, Position: -1833
+2017-12-05, RSI: 49.96, Position: -1833
+2017-12-05, 🔁 CLOSING SHORT: RSI crossed below 50
+2017-12-06, BUY EXECUTED at 41.88 for 1833 units
+2017-12-06, ⚠️ Contract fallback used: 1
+2017-12-06, 📦 TRADE LOGGED: contracts=1, pnl=183.29720306396484
+2017-12-06, RSI: 48.37, Position: 0
+2017-12-07, RSI: 49.22, Position: 0
+2017-12-08, RSI: 49.37, Position: 0
+2017-12-11, RSI: 57.97, Position: 0
+2017-12-12, RSI: 55.01, Position: 0
+2017-12-13, RSI: 56.42, Position: 0
+2017-12-14, RSI: 56.25, Position: 0
+2017-12-15, RSI: 60.62, Position: 0
+2017-12-18, RSI: 65.78, Position: 0
+2017-12-19, RSI: 59.36, Position: 0
+2017-12-20, RSI: 58.73, Position: 0
+2017-12-21, RSI: 60.29, Position: 0
+2017-12-22, RSI: 60.29, Position: 0
+2017-12-26, RSI: 46.55, Position: 0
+2017-12-27, RSI: 46.64, Position: 0
+2017-12-28, RSI: 48.12, Position: 0
+2017-12-29, RSI: 43.15, Position: 0
+2018-01-02, RSI: 51.91, Position: 0
+2018-01-03, RSI: 51.82, Position: 0
+2018-01-04, RSI: 53.99, Position: 0
+2018-01-05, RSI: 58.89, Position: 0
+2018-01-08, RSI: 56.74, Position: 0
+2018-01-09, RSI: 56.68, Position: 0
+2018-01-10, RSI: 56.53, Position: 0
+2018-01-11, RSI: 59.34, Position: 0
+2018-01-12, RSI: 63.93, Position: 0
+2018-01-16, RSI: 60.29, Position: 0
+2018-01-17, RSI: 66.87, Position: 0
+2018-01-18, RSI: 67.19, Position: 0
+2018-01-19, RSI: 63.85, Position: 0
+2018-01-22, RSI: 58.17, Position: 0
+2018-01-23, RSI: 58.27, Position: 0
+2018-01-24, RSI: 48.61, Position: 0
+2018-01-25, RSI: 40.61, Position: 0
+2018-01-26, RSI: 41.93, Position: 0
+2018-01-29, RSI: 34.57, Position: 0
+2018-01-30, RSI: 32.84, Position: 0
+2018-01-31, RSI: 34.48, Position: 0
+2018-02-01, RSI: 35.77, Position: 0
+2018-02-02, RSI: 24.84, Position: 0
+2018-02-02, Placing BUY for size: 1909 (retry 0)
+2018-02-02, 📈 BUY SIGNAL placed with size 1909
+2018-02-05, BUY EXECUTED at 39.78 for 1909 units
+2018-02-05, RSI: 21.02, Position: 1909
+2018-02-06, RSI: 37.79, Position: 1909
+2018-02-07, RSI: 33.68, Position: 1909
+2018-02-08, RSI: 29.36, Position: 1909
+2018-02-09, RSI: 32.05, Position: 1909
+2018-02-12, RSI: 43.64, Position: 1909
+2018-02-13, RSI: 46.19, Position: 1909
+2018-02-14, RSI: 50.67, Position: 1909
+2018-02-14, 🔁 CLOSING LONG: RSI crossed above 50
+2018-02-15, SELL EXECUTED at 42.45 for -1909 units
+2018-02-15, ⚠️ Contract fallback used: 1
+2018-02-15, 📦 TRADE LOGGED: contracts=1, pnl=5101.796382904053
+2018-02-15, RSI: 57.70, Position: 0
+2018-02-16, RSI: 56.83, Position: 0
+2018-02-20, RSI: 55.90, Position: 0
+2018-02-21, RSI: 54.59, Position: 0
+2018-02-22, RSI: 56.59, Position: 0
+2018-02-23, RSI: 60.53, Position: 0
+2018-02-26, RSI: 64.53, Position: 0
+2018-02-27, RSI: 63.37, Position: 0
+2018-02-28, RSI: 62.81, Position: 0
+2018-03-01, RSI: 56.54, Position: 0
+2018-03-02, RSI: 58.28, Position: 0
+2018-03-05, RSI: 59.17, Position: 0
+2018-03-06, RSI: 58.83, Position: 0
+2018-03-07, RSI: 55.20, Position: 0
+2018-03-08, RSI: 58.42, Position: 0
+2018-03-09, RSI: 62.99, Position: 0
+2018-03-12, RSI: 65.34, Position: 0
+2018-03-13, RSI: 61.14, Position: 0
+2018-03-14, RSI: 57.65, Position: 0
+2018-03-15, RSI: 58.00, Position: 0
+2018-03-16, RSI: 56.48, Position: 0
+2018-03-19, RSI: 50.32, Position: 0
+2018-03-20, RSI: 50.19, Position: 0
+2018-03-21, RSI: 42.39, Position: 0
+2018-03-22, RSI: 38.46, Position: 0
+2018-03-23, RSI: 33.13, Position: 0
+2018-03-26, RSI: 48.53, Position: 0
+2018-03-27, RSI: 42.56, Position: 0
+2018-03-28, RSI: 40.31, Position: 0
+2018-03-29, RSI: 42.59, Position: 0
+2018-04-02, RSI: 41.16, Position: 0
+2018-04-03, RSI: 44.29, Position: 0
+2018-04-04, RSI: 49.72, Position: 0
+2018-04-05, RSI: 51.60, Position: 0
+2018-04-06, RSI: 44.90, Position: 0
+2018-04-09, RSI: 47.66, Position: 0
+2018-04-10, RSI: 52.58, Position: 0
+2018-04-11, RSI: 51.27, Position: 0
+2018-04-12, RSI: 53.87, Position: 0
+2018-04-13, RSI: 54.77, Position: 0
+2018-04-16, RSI: 56.47, Position: 0
+2018-04-17, RSI: 60.05, Position: 0
+2018-04-18, RSI: 59.18, Position: 0
+2018-04-19, RSI: 49.49, Position: 0
+2018-04-20, RSI: 39.67, Position: 0
+2018-04-23, RSI: 39.10, Position: 0
+2018-04-24, RSI: 36.42, Position: 0
+2018-04-25, RSI: 37.83, Position: 0
+2018-04-26, RSI: 39.01, Position: 0
+2018-04-27, RSI: 36.53, Position: 0
+2018-04-30, RSI: 42.61, Position: 0
+2018-05-01, RSI: 49.43, Position: 0
+2018-05-02, RSI: 59.51, Position: 0
+2018-05-03, RSI: 59.88, Position: 0
+2018-05-04, RSI: 66.92, Position: 0
+2018-05-07, RSI: 68.07, Position: 0
+2018-05-08, RSI: 68.86, Position: 0
+2018-05-09, RSI: 70.03, Position: 0
+2018-05-09, Placing SELL for size: 1733 (retry 0)
+2018-05-09, 📉 SELL SIGNAL placed with size 1733
+2018-05-10, SELL EXECUTED at 46.94 for -1733 units
+2018-05-10, RSI: 72.31, Position: -1733
+2018-05-11, RSI: 69.24, Position: -1733
+2018-05-14, RSI: 68.29, Position: -1733
+2018-05-15, RSI: 64.58, Position: -1733
+2018-05-16, RSI: 66.57, Position: -1733
+2018-05-17, RSI: 63.92, Position: -1733
+2018-05-18, RSI: 62.40, Position: -1733
+2018-05-21, RSI: 64.19, Position: -1733
+2018-05-22, RSI: 63.04, Position: -1733
+2018-05-23, RSI: 64.77, Position: -1733
+2018-05-24, RSI: 64.20, Position: -1733
+2018-05-25, RSI: 64.88, Position: -1733
+2018-05-29, RSI: 62.85, Position: -1733
+2018-05-30, RSI: 61.63, Position: -1733
+2018-05-31, RSI: 59.67, Position: -1733
+2018-06-01, RSI: 65.93, Position: -1733
+2018-06-04, RSI: 68.42, Position: -1733
+2018-06-05, RSI: 70.57, Position: -1733
+2018-06-06, RSI: 71.52, Position: -1733
+2018-06-07, RSI: 69.64, Position: -1733
+2018-06-08, RSI: 63.57, Position: -1733
+2018-06-11, RSI: 62.02, Position: -1733
+2018-06-12, RSI: 64.13, Position: -1733
+2018-06-13, RSI: 58.83, Position: -1733
+2018-06-14, RSI: 59.06, Position: -1733
+2018-06-15, RSI: 52.81, Position: -1733
+2018-06-18, RSI: 52.51, Position: -1733
+2018-06-19, RSI: 44.14, Position: -1733
+2018-06-19, 🔁 CLOSING SHORT: RSI crossed below 50
+2018-06-20, BUY EXECUTED at 46.59 for 1733 units
+2018-06-20, ⚠️ Contract fallback used: 1
+2018-06-20, 📦 TRADE LOGGED: contracts=1, pnl=602.2172355651855
+2018-06-20, RSI: 46.57, Position: 0
+2018-06-21, RSI: 43.92, Position: 0
+2018-06-22, RSI: 42.57, Position: 0
+2018-06-25, RSI: 36.41, Position: 0
+2018-06-26, RSI: 43.63, Position: 0
+2018-06-27, RSI: 43.00, Position: 0
+2018-06-28, RSI: 47.07, Position: 0
+2018-06-29, RSI: 46.04, Position: 0
+2018-07-02, RSI: 52.04, Position: 0
+2018-07-03, RSI: 43.78, Position: 0
+2018-07-05, RSI: 47.83, Position: 0
+2018-07-06, RSI: 54.02, Position: 0
+2018-07-09, RSI: 59.30, Position: 0
+2018-07-10, RSI: 58.66, Position: 0
+2018-07-11, RSI: 52.16, Position: 0
+2018-07-12, RSI: 58.48, Position: 0
+2018-07-13, RSI: 59.04, Position: 0
+2018-07-16, RSI: 57.87, Position: 0
+2018-07-17, RSI: 58.99, Position: 0
+2018-07-18, RSI: 55.88, Position: 0
+2018-07-19, RSI: 59.15, Position: 0
+2018-07-20, RSI: 57.78, Position: 0
+2018-07-23, RSI: 58.18, Position: 0
+2018-07-24, RSI: 61.43, Position: 0
+2018-07-25, RSI: 65.24, Position: 0
+2018-07-26, RSI: 62.99, Position: 0
+2018-07-27, RSI: 52.66, Position: 0
+2018-07-30, RSI: 49.75, Position: 0
+2018-07-31, RSI: 50.79, Position: 0
+2018-08-01, RSI: 70.32, Position: 0
+2018-08-01, Placing SELL for size: 1622 (retry 0)
+2018-08-01, 📉 SELL SIGNAL placed with size 1622
+2018-08-02, SELL EXECUTED at 50.15 for -1622 units
+2018-08-02, RSI: 75.76, Position: -1622
+2018-08-03, RSI: 76.24, Position: -1622
+2018-08-06, RSI: 77.11, Position: -1622
+2018-08-07, RSI: 71.94, Position: -1622
+2018-08-08, RSI: 72.08, Position: -1622
+2018-08-09, RSI: 73.77, Position: -1622
+2018-08-10, RSI: 69.99, Position: -1622
+2018-08-13, RSI: 71.55, Position: -1622
+2018-08-14, RSI: 72.56, Position: -1622
+2018-08-15, RSI: 73.13, Position: -1622
+2018-08-16, RSI: 76.44, Position: -1622
+2018-08-17, RSI: 80.10, Position: -1622
+2018-08-20, RSI: 73.95, Position: -1622
+2018-08-21, RSI: 72.76, Position: -1622
+2018-08-22, RSI: 72.77, Position: -1622
+2018-08-23, RSI: 73.29, Position: -1622
+2018-08-24, RSI: 74.11, Position: -1622
+2018-08-27, RSI: 76.19, Position: -1622
+2018-08-28, RSI: 78.06, Position: -1622
+2018-08-29, RSI: 81.06, Position: -1622
+2018-08-30, RSI: 82.65, Position: -1622
+2018-08-31, RSI: 84.44, Position: -1622
+2018-09-04, RSI: 84.91, Position: -1622
+2018-09-05, RSI: 79.62, Position: -1622
+2018-09-06, RSI: 68.06, Position: -1622
+2018-09-07, RSI: 63.33, Position: -1622
+2018-09-10, RSI: 56.38, Position: -1622
+2018-09-11, RSI: 64.24, Position: -1622
+2018-09-12, RSI: 58.52, Position: -1622
+2018-09-13, RSI: 64.97, Position: -1622
+2018-09-14, RSI: 60.12, Position: -1622
+2018-09-17, RSI: 50.68, Position: -1622
+2018-09-18, RSI: 51.18, Position: -1622
+2018-09-19, RSI: 51.37, Position: -1622
+2018-09-20, RSI: 53.86, Position: -1622
+2018-09-21, RSI: 49.93, Position: -1622
+2018-09-21, 🔁 CLOSING SHORT: RSI crossed below 50
+2018-09-24, BUY EXECUTED at 54.21 for 1622 units
+2018-09-24, ⚠️ Contract fallback used: 1
+2018-09-24, 📦 TRADE LOGGED: contracts=1, pnl=-6585.322227478027
+2018-09-24, RSI: 54.63, Position: 0
+2018-09-25, RSI: 56.60, Position: 0
+2018-09-26, RSI: 53.45, Position: 0
+2018-09-27, RSI: 59.64, Position: 0
+2018-09-28, RSI: 60.62, Position: 0
+2018-10-01, RSI: 62.51, Position: 0
+2018-10-02, RSI: 64.93, Position: 0
+2018-10-03, RSI: 67.99, Position: 0
+2018-10-04, RSI: 59.77, Position: 0
+2018-10-05, RSI: 53.45, Position: 0
+2018-10-08, RSI: 52.61, Position: 0
+2018-10-09, RSI: 56.96, Position: 0
+2018-10-10, RSI: 42.67, Position: 0
+2018-10-11, RSI: 40.67, Position: 0
+2018-10-12, RSI: 50.65, Position: 0
+2018-10-15, RSI: 45.53, Position: 0
+2018-10-16, RSI: 50.92, Position: 0
+2018-10-17, RSI: 49.85, Position: 0
+2018-10-18, RSI: 44.47, Position: 0
+2018-10-19, RSI: 48.29, Position: 0
+2018-10-22, RSI: 49.81, Position: 0
+2018-10-23, RSI: 52.16, Position: 0
+2018-10-24, RSI: 44.02, Position: 0
+2018-10-25, RSI: 49.27, Position: 0
+2018-10-26, RSI: 45.83, Position: 0
+2018-10-29, RSI: 42.15, Position: 0
+2018-10-30, RSI: 43.43, Position: 0
+2018-10-31, RSI: 49.70, Position: 0
+2018-11-01, RSI: 53.09, Position: 0
+2018-11-02, RSI: 40.28, Position: 0
+2018-11-05, RSI: 36.49, Position: 0
+2018-11-06, RSI: 38.78, Position: 0
+2018-11-07, RSI: 44.87, Position: 0
+2018-11-08, RSI: 43.76, Position: 0
+2018-11-09, RSI: 40.78, Position: 0
+2018-11-12, RSI: 34.33, Position: 0
+2018-11-13, RSI: 33.26, Position: 0
+2018-11-14, RSI: 30.41, Position: 0
+2018-11-15, RSI: 35.46, Position: 0
+2018-11-16, RSI: 37.71, Position: 0
+2018-11-19, RSI: 33.21, Position: 0
+2018-11-20, RSI: 28.91, Position: 0
+2018-11-20, Placing BUY for size: 1713 (retry 0)
+2018-11-20, 📈 BUY SIGNAL placed with size 1713
+2018-11-21, BUY EXECUTED at 44.93 for 1713 units
+2018-11-21, RSI: 28.82, Position: 1713
+2018-11-23, RSI: 26.80, Position: 1713
+2018-11-26, RSI: 29.56, Position: 1713
+2018-11-27, RSI: 29.37, Position: 1713
+2018-11-28, RSI: 37.23, Position: 1713
+2018-11-29, RSI: 36.33, Position: 1713
+2018-11-30, RSI: 35.68, Position: 1713
+2018-12-03, RSI: 42.78, Position: 1713
+2018-12-04, RSI: 37.04, Position: 1713
+2018-12-06, RSI: 35.79, Position: 1713
+2018-12-07, RSI: 32.09, Position: 1713
+2018-12-10, RSI: 33.41, Position: 1713
+2018-12-11, RSI: 32.81, Position: 1713
+2018-12-12, RSI: 33.44, Position: 1713
+2018-12-13, RSI: 35.96, Position: 1713
+2018-12-14, RSI: 32.09, Position: 1713
+2018-12-17, RSI: 31.07, Position: 1713
+2018-12-18, RSI: 34.17, Position: 1713
+2018-12-19, RSI: 30.57, Position: 1713
+2018-12-20, RSI: 28.08, Position: 1713
+2018-12-21, RSI: 24.80, Position: 1713
+2018-12-24, RSI: 22.96, Position: 1713
+2018-12-26, RSI: 36.45, Position: 1713
+2018-12-27, RSI: 35.78, Position: 1713
+2018-12-28, RSI: 35.88, Position: 1713
+2018-12-31, RSI: 37.83, Position: 1713
+2019-01-02, RSI: 38.07, Position: 1713
+2019-01-03, RSI: 27.88, Position: 1713
+2019-01-04, RSI: 35.10, Position: 1713
+2019-01-07, RSI: 34.90, Position: 1713
+2019-01-08, RSI: 38.21, Position: 1713
+2019-01-09, RSI: 41.14, Position: 1713
+2019-01-10, RSI: 41.71, Position: 1713
+2019-01-11, RSI: 40.41, Position: 1713
+2019-01-14, RSI: 38.46, Position: 1713
+2019-01-15, RSI: 42.47, Position: 1713
+2019-01-16, RSI: 44.83, Position: 1713
+2019-01-17, RSI: 46.01, Position: 1713
+2019-01-18, RSI: 47.27, Position: 1713
+2019-01-22, RSI: 43.28, Position: 1713
+2019-01-23, RSI: 44.17, Position: 1713
+2019-01-24, RSI: 42.74, Position: 1713
+2019-01-25, RSI: 49.97, Position: 1713
+2019-01-28, RSI: 48.08, Position: 1713
+2019-01-29, RSI: 46.01, Position: 1713
+2019-01-30, RSI: 58.57, Position: 1713
+2019-01-30, 🔁 CLOSING LONG: RSI crossed above 50
+2019-01-31, SELL EXECUTED at 41.53 for -1713 units
+2019-01-31, ⚠️ Contract fallback used: 1
+2019-01-31, 📦 TRADE LOGGED: contracts=1, pnl=-5832.762908935547
+2019-01-31, RSI: 59.70, Position: 0
+2019-02-01, RSI: 59.78, Position: 0
+2019-02-04, RSI: 64.29, Position: 0
+2019-02-05, RSI: 66.77, Position: 0
+2019-02-06, RSI: 66.82, Position: 0
+2019-02-07, RSI: 61.27, Position: 0
+2019-02-08, RSI: 60.40, Position: 0
+2019-02-11, RSI: 58.74, Position: 0
+2019-02-12, RSI: 60.48, Position: 0
+2019-02-13, RSI: 59.17, Position: 0
+2019-02-14, RSI: 59.99, Position: 0
+2019-02-15, RSI: 59.21, Position: 0
+2019-02-19, RSI: 59.96, Position: 0
+2019-02-20, RSI: 61.60, Position: 0
+2019-02-21, RSI: 59.29, Position: 0
+2019-02-22, RSI: 62.29, Position: 0
+2019-02-25, RSI: 64.16, Position: 0
+2019-02-26, RSI: 64.32, Position: 0
+2019-02-27, RSI: 65.17, Position: 0
+2019-02-28, RSI: 60.21, Position: 0
+2019-03-01, RSI: 63.39, Position: 0
+2019-03-04, RSI: 64.85, Position: 0
+2019-03-05, RSI: 63.85, Position: 0
+2019-03-06, RSI: 60.68, Position: 0
+2019-03-07, RSI: 54.81, Position: 0
+2019-03-08, RSI: 55.75, Position: 0
+2019-03-11, RSI: 66.62, Position: 0
+2019-03-12, RSI: 69.34, Position: 0
+2019-03-13, RSI: 70.38, Position: 0
+2019-03-13, Placing SELL for size: 1553 (retry 0)
+2019-03-13, 📉 SELL SIGNAL placed with size 1553
+2019-03-14, SELL EXECUTED at 45.97 for -1553 units
+2019-03-14, RSI: 72.87, Position: -1553
+2019-03-15, RSI: 75.49, Position: -1553
+2019-03-18, RSI: 77.37, Position: -1553
+2019-03-19, RSI: 72.67, Position: -1553
+2019-03-20, RSI: 74.50, Position: -1553
+2019-03-21, RSI: 80.47, Position: -1553
+2019-03-22, RSI: 70.16, Position: -1553
+2019-03-25, RSI: 65.03, Position: -1553
+2019-03-26, RSI: 60.97, Position: -1553
+2019-03-27, RSI: 63.11, Position: -1553
+2019-03-28, RSI: 63.43, Position: -1553
+2019-03-29, RSI: 65.04, Position: -1553
+2019-04-01, RSI: 66.69, Position: -1553
+2019-04-02, RSI: 69.99, Position: -1553
+2019-04-03, RSI: 71.44, Position: -1553
+2019-04-04, RSI: 71.82, Position: -1553
+2019-04-05, RSI: 73.28, Position: -1553
+2019-04-08, RSI: 76.40, Position: -1553
+2019-04-09, RSI: 74.59, Position: -1553
+2019-04-10, RSI: 75.74, Position: -1553
+2019-04-11, RSI: 70.58, Position: -1553
+2019-04-12, RSI: 70.33, Position: -1553
+2019-04-15, RSI: 70.83, Position: -1553
+2019-04-16, RSI: 70.86, Position: -1553
+2019-04-17, RSI: 75.89, Position: -1553
+2019-04-18, RSI: 76.70, Position: -1553
+2019-04-22, RSI: 77.45, Position: -1553
+2019-04-23, RSI: 80.45, Position: -1553
+2019-04-24, RSI: 79.22, Position: -1553
+2019-04-25, RSI: 72.23, Position: -1553
+2019-04-26, RSI: 68.83, Position: -1553
+2019-04-29, RSI: 69.32, Position: -1553
+2019-04-30, RSI: 56.99, Position: -1553
+2019-05-01, RSI: 70.92, Position: -1553
+2019-05-02, RSI: 67.64, Position: -1553
+2019-05-03, RSI: 70.43, Position: -1553
+2019-05-06, RSI: 63.05, Position: -1553
+2019-05-07, RSI: 52.81, Position: -1553
+2019-05-08, RSI: 52.87, Position: -1553
+2019-05-09, RSI: 49.28, Position: -1553
+2019-05-09, 🔁 CLOSING SHORT: RSI crossed below 50
+2019-05-10, BUY EXECUTED at 49.35 for 1553 units
+2019-05-10, ⚠️ Contract fallback used: 1
+2019-05-10, 📦 TRADE LOGGED: contracts=1, pnl=-5249.141658782959
+2019-05-10, RSI: 44.04, Position: 0
+2019-05-13, RSI: 32.13, Position: 0
+2019-05-14, RSI: 36.85, Position: 0
+2019-05-15, RSI: 40.29, Position: 0
+2019-05-16, RSI: 39.43, Position: 0
+2019-05-17, RSI: 38.30, Position: 0
+2019-05-20, RSI: 32.76, Position: 0
+2019-05-21, RSI: 38.45, Position: 0
+2019-05-22, RSI: 34.98, Position: 0
+2019-05-23, RSI: 32.41, Position: 0
+2019-05-24, RSI: 31.85, Position: 0
+2019-05-28, RSI: 31.23, Position: 0
+2019-05-29, RSI: 30.50, Position: 0
+2019-05-30, RSI: 32.35, Position: 0
+2019-05-31, RSI: 29.39, Position: 0
+2019-05-31, Placing BUY for size: 1504 (retry 0)
+2019-05-31, 📈 BUY SIGNAL placed with size 1504
+2019-06-03, BUY EXECUTED at 43.90 for 1504 units
+2019-06-03, RSI: 27.88, Position: 1504
+2019-06-04, RSI: 39.80, Position: 1504
+2019-06-05, RSI: 44.33, Position: 1504
+2019-06-06, RSI: 48.21, Position: 1504
+2019-06-07, RSI: 54.50, Position: 1504
+2019-06-07, 🔁 CLOSING LONG: RSI crossed above 50
+2019-06-10, SELL EXECUTED at 47.95 for -1504 units
+2019-06-10, ⚠️ Contract fallback used: 1
+2019-06-10, 📦 TRADE LOGGED: contracts=1, pnl=6094.956787109375
+2019-06-10, RSI: 57.25, Position: 0
+2019-06-11, RSI: 59.66, Position: 0
+2019-06-12, RSI: 58.67, Position: 0
+2019-06-13, RSI: 58.61, Position: 0
+2019-06-14, RSI: 56.15, Position: 0
+2019-06-17, RSI: 57.71, Position: 0
+2019-06-18, RSI: 63.28, Position: 0
+2019-06-19, RSI: 62.16, Position: 0
+2019-06-20, RSI: 64.04, Position: 0
+2019-06-21, RSI: 62.60, Position: 0
+2019-06-24, RSI: 62.16, Position: 0
+2019-06-25, RSI: 55.79, Position: 0
+2019-06-26, RSI: 61.73, Position: 0
+2019-06-27, RSI: 61.60, Position: 0
+2019-06-28, RSI: 57.74, Position: 0
+2019-07-01, RSI: 62.75, Position: 0
+2019-07-02, RSI: 64.24, Position: 0
+2019-07-03, RSI: 66.30, Position: 0
+2019-07-05, RSI: 65.86, Position: 0
+2019-07-08, RSI: 56.47, Position: 0
+2019-07-09, RSI: 58.32, Position: 0
+2019-07-10, RSI: 61.23, Position: 0
+2019-07-11, RSI: 57.99, Position: 0
+2019-07-12, RSI: 60.35, Position: 0
+2019-07-15, RSI: 63.11, Position: 0
+2019-07-16, RSI: 61.40, Position: 0
+2019-07-17, RSI: 58.63, Position: 0
+2019-07-18, RSI: 62.31, Position: 0
+2019-07-19, RSI: 55.28, Position: 0
+2019-07-22, RSI: 62.20, Position: 0
+2019-07-23, RSI: 64.29, Position: 0
+2019-07-24, RSI: 63.89, Position: 0
+2019-07-25, RSI: 60.01, Position: 0
+2019-07-26, RSI: 61.12, Position: 0
+2019-07-29, RSI: 64.02, Position: 0
+2019-07-30, RSI: 61.72, Position: 0
+2019-07-31, RSI: 67.64, Position: 0
+2019-08-01, RSI: 57.31, Position: 0
+2019-08-02, RSI: 49.51, Position: 0
+2019-08-05, RSI: 36.55, Position: 0
+2019-08-06, RSI: 42.14, Position: 0
+2019-08-07, RSI: 45.05, Position: 0
+2019-08-08, RSI: 50.78, Position: 0
+2019-08-09, RSI: 47.79, Position: 0
+2019-08-12, RSI: 47.17, Position: 0
+2019-08-13, RSI: 57.19, Position: 0
+2019-08-14, RSI: 49.75, Position: 0
+2019-08-15, RSI: 48.64, Position: 0
+2019-08-16, RSI: 53.85, Position: 0
+2019-08-19, RSI: 57.60, Position: 0
+2019-08-20, RSI: 57.61, Position: 0
+2019-08-21, RSI: 59.85, Position: 0
+2019-08-22, RSI: 59.58, Position: 0
+2019-08-23, RSI: 47.19, Position: 0
+2019-08-26, RSI: 51.45, Position: 0
+2019-08-27, RSI: 48.88, Position: 0
+2019-08-28, RSI: 50.45, Position: 0
+2019-08-29, RSI: 54.28, Position: 0
+2019-08-30, RSI: 53.93, Position: 0
+2019-09-03, RSI: 50.03, Position: 0
+2019-09-04, RSI: 54.14, Position: 0
+2019-09-05, RSI: 58.44, Position: 0
+2019-09-06, RSI: 58.41, Position: 0
+2019-09-09, RSI: 59.39, Position: 0
+2019-09-10, RSI: 62.08, Position: 0
+2019-09-11, RSI: 68.23, Position: 0
+2019-09-12, RSI: 67.38, Position: 0
+2019-09-13, RSI: 60.31, Position: 0
+2019-09-16, RSI: 61.47, Position: 0
+2019-09-17, RSI: 62.29, Position: 0
+2019-09-18, RSI: 64.40, Position: 0
+2019-09-19, RSI: 61.17, Position: 0
+2019-09-20, RSI: 55.80, Position: 0
+2019-09-23, RSI: 57.05, Position: 0
+2019-09-24, RSI: 55.28, Position: 0
+2019-09-25, RSI: 59.61, Position: 0
+2019-09-26, RSI: 57.57, Position: 0
+2019-09-27, RSI: 55.64, Position: 0
+2019-09-30, RSI: 62.20, Position: 0
+2019-10-01, RSI: 62.91, Position: 0
+2019-10-02, RSI: 53.14, Position: 0
+2019-10-03, RSI: 55.59, Position: 0
+2019-10-04, RSI: 62.61, Position: 0
+2019-10-07, RSI: 62.66, Position: 0
+2019-10-08, RSI: 58.09, Position: 0
+2019-10-09, RSI: 61.11, Position: 0
+2019-10-10, RSI: 64.33, Position: 0
+2019-10-11, RSI: 69.73, Position: 0
+2019-10-14, RSI: 69.10, Position: 0
+2019-10-15, RSI: 68.04, Position: 0
+2019-10-16, RSI: 66.15, Position: 0
+2019-10-17, RSI: 67.09, Position: 0
+2019-10-18, RSI: 68.28, Position: 0
+2019-10-21, RSI: 72.19, Position: 0
+2019-10-21, Placing SELL for size: 1186 (retry 0)
+2019-10-21, 📉 SELL SIGNAL placed with size 1186
+2019-10-22, SELL EXECUTED at 60.29 for -1186 units
+2019-10-22, RSI: 70.92, Position: -1186
+2019-10-23, RSI: 73.81, Position: -1186
+2019-10-24, RSI: 74.16, Position: -1186
+2019-10-25, RSI: 76.63, Position: -1186
+2019-10-28, RSI: 78.46, Position: -1186
+2019-10-29, RSI: 65.57, Position: -1186
+2019-10-30, RSI: 65.51, Position: -1186
+2019-10-31, RSI: 70.81, Position: -1186
+2019-11-01, RSI: 75.93, Position: -1186
+2019-11-04, RSI: 76.97, Position: -1186
+2019-11-05, RSI: 76.19, Position: -1186
+2019-11-06, RSI: 76.27, Position: -1186
+2019-11-07, RSI: 77.80, Position: -1186
+2019-11-08, RSI: 78.29, Position: -1186
+2019-11-11, RSI: 79.69, Position: -1186
+2019-11-12, RSI: 79.05, Position: -1186
+2019-11-13, RSI: 80.79, Position: -1186
+2019-11-14, RSI: 75.85, Position: -1186
+2019-11-15, RSI: 78.29, Position: -1186
+2019-11-18, RSI: 79.26, Position: -1186
+2019-11-19, RSI: 77.02, Position: -1186
+2019-11-20, RSI: 69.00, Position: -1186
+2019-11-21, RSI: 66.17, Position: -1186
+2019-11-22, RSI: 65.61, Position: -1186
+2019-11-25, RSI: 70.93, Position: -1186
+2019-11-26, RSI: 65.95, Position: -1186
+2019-11-27, RSI: 69.84, Position: -1186
+2019-11-29, RSI: 68.44, Position: -1186
+2019-12-02, RSI: 61.49, Position: -1186
+2019-12-03, RSI: 52.70, Position: -1186
+2019-12-04, RSI: 55.99, Position: -1186
+2019-12-05, RSI: 60.91, Position: -1186
+2019-12-06, RSI: 66.32, Position: -1186
+2019-12-09, RSI: 59.74, Position: -1186
+2019-12-10, RSI: 61.44, Position: -1186
+2019-12-11, RSI: 63.84, Position: -1186
+2019-12-12, RSI: 64.56, Position: -1186
+2019-12-13, RSI: 68.20, Position: -1186
+2019-12-16, RSI: 72.13, Position: -1186
+2019-12-17, RSI: 72.56, Position: -1186
+2019-12-18, RSI: 71.13, Position: -1186
+2019-12-19, RSI: 71.38, Position: -1186
+2019-12-20, RSI: 70.01, Position: -1186
+2019-12-23, RSI: 74.21, Position: -1186
+2019-12-24, RSI: 74.44, Position: -1186
+2019-12-26, RSI: 78.68, Position: -1186
+2019-12-27, RSI: 78.41, Position: -1186
+2019-12-30, RSI: 79.60, Position: -1186
+2019-12-31, RSI: 81.00, Position: -1186
+2020-01-02, RSI: 84.58, Position: -1186
+2020-01-03, RSI: 77.70, Position: -1186
+2020-01-06, RSI: 79.18, Position: -1186
+2020-01-07, RSI: 75.95, Position: -1186
+2020-01-08, RSI: 79.08, Position: -1186
+2020-01-09, RSI: 82.39, Position: -1186
+2020-01-10, RSI: 82.71, Position: -1186
+2020-01-13, RSI: 85.42, Position: -1186
+2020-01-14, RSI: 77.04, Position: -1186
+2020-01-15, RSI: 74.57, Position: -1186
+2020-01-16, RSI: 76.89, Position: -1186
+2020-01-17, RSI: 78.76, Position: -1186
+2020-01-21, RSI: 74.73, Position: -1186
+2020-01-22, RSI: 75.44, Position: -1186
+2020-01-23, RSI: 76.40, Position: -1186
+2020-01-24, RSI: 74.51, Position: -1186
+2020-01-27, RSI: 58.61, Position: -1186
+2020-01-28, RSI: 65.92, Position: -1186
+2020-01-29, RSI: 70.23, Position: -1186
+2020-01-30, RSI: 69.56, Position: -1186
+2020-01-31, RSI: 52.95, Position: -1186
+2020-02-03, RSI: 52.16, Position: -1186
+2020-02-04, RSI: 59.92, Position: -1186
+2020-02-05, RSI: 61.63, Position: -1186
+2020-02-06, RSI: 64.02, Position: -1186
+2020-02-07, RSI: 58.60, Position: -1186
+2020-02-10, RSI: 59.68, Position: -1186
+2020-02-11, RSI: 57.62, Position: -1186
+2020-02-12, RSI: 63.00, Position: -1186
+2020-02-13, RSI: 60.46, Position: -1186
+2020-02-14, RSI: 60.52, Position: -1186
+2020-02-18, RSI: 54.07, Position: -1186
+2020-02-19, RSI: 57.83, Position: -1186
+2020-02-20, RSI: 54.39, Position: -1186
+2020-02-21, RSI: 47.71, Position: -1186
+2020-02-21, 🔁 CLOSING SHORT: RSI crossed below 50
+2020-02-24, BUY EXECUTED at 74.32 for 1186 units
+2020-02-24, ⚠️ Contract fallback used: 1
+2020-02-24, 📦 TRADE LOGGED: contracts=1, pnl=-16633.651809692383
+2020-02-24, RSI: 37.53, Position: 0
+2020-02-25, RSI: 32.46, Position: 0
+2020-02-26, RSI: 36.63, Position: 0
+2020-02-27, RSI: 28.66, Position: 0
+2020-02-27, Placing BUY for size: 824 (retry 0)
+2020-02-27, 📈 BUY SIGNAL placed with size 824
+2020-02-28, BUY EXECUTED at 64.32 for 824 units
+2020-02-28, RSI: 28.60, Position: 824
+2020-03-02, RSI: 46.53, Position: 824
+2020-03-03, RSI: 42.26, Position: 824
+2020-03-04, RSI: 49.33, Position: 824
+2020-03-05, RSI: 44.99, Position: 824
+2020-03-06, RSI: 43.36, Position: 824
+2020-03-09, RSI: 35.29, Position: 824
+2020-03-10, RSI: 44.61, Position: 824
+2020-03-11, RSI: 41.29, Position: 824
+2020-03-12, RSI: 33.87, Position: 824
+2020-03-13, RSI: 45.43, Position: 824
+2020-03-16, RSI: 37.04, Position: 824
+2020-03-17, RSI: 40.56, Position: 824
+2020-03-18, RSI: 39.19, Position: 824
+2020-03-19, RSI: 38.76, Position: 824
+2020-03-20, RSI: 35.32, Position: 824
+2020-03-23, RSI: 34.29, Position: 824
+2020-03-24, RSI: 42.60, Position: 824
+2020-03-25, RSI: 42.25, Position: 824
+2020-03-26, RSI: 46.70, Position: 824
+2020-03-27, RSI: 43.70, Position: 824
+2020-03-30, RSI: 46.16, Position: 824
+2020-03-31, RSI: 46.00, Position: 824
+2020-04-01, RSI: 41.98, Position: 824
+2020-04-02, RSI: 43.58, Position: 824
+2020-04-03, RSI: 42.48, Position: 824
+2020-04-06, RSI: 50.53, Position: 824
+2020-04-06, 🔁 CLOSING LONG: RSI crossed above 50
+2020-04-07, SELL EXECUTED at 67.70 for -824 units
+2020-04-07, ⚠️ Contract fallback used: 1
+2020-04-07, 📦 TRADE LOGGED: contracts=1, pnl=2789.2354736328125
+2020-04-07, RSI: 49.45, Position: 0
+2020-04-08, RSI: 51.86, Position: 0
+2020-04-09, RSI: 52.57, Position: 0
+2020-04-13, RSI: 54.53, Position: 0
+2020-04-14, RSI: 59.29, Position: 0
+2020-04-15, RSI: 58.05, Position: 0
+2020-04-16, RSI: 58.85, Position: 0
+2020-04-17, RSI: 56.84, Position: 0
+2020-04-20, RSI: 53.85, Position: 0
+2020-04-21, RSI: 49.73, Position: 0
+2020-04-22, RSI: 53.21, Position: 0
+2020-04-23, RSI: 52.67, Position: 0
+2020-04-24, RSI: 56.23, Position: 0
+2020-04-27, RSI: 56.32, Position: 0
+2020-04-28, RSI: 53.62, Position: 0
+2020-04-29, RSI: 57.95, Position: 0
+2020-04-30, RSI: 60.58, Position: 0
+2020-05-01, RSI: 57.56, Position: 0
+2020-05-04, RSI: 59.44, Position: 0
+2020-05-05, RSI: 61.43, Position: 0
+2020-05-06, RSI: 62.80, Position: 0
+2020-05-07, RSI: 64.18, Position: 0
+2020-05-08, RSI: 66.91, Position: 0
+2020-05-11, RSI: 68.86, Position: 0
+2020-05-12, RSI: 65.78, Position: 0
+2020-05-13, RSI: 62.63, Position: 0
+2020-05-14, RSI: 63.57, Position: 0
+2020-05-15, RSI: 61.94, Position: 0
+2020-05-18, RSI: 65.70, Position: 0
+2020-05-19, RSI: 63.99, Position: 0
+2020-05-20, RSI: 67.07, Position: 0
+2020-05-21, RSI: 64.74, Position: 0
+2020-05-22, RSI: 65.84, Position: 0
+2020-05-26, RSI: 63.58, Position: 0
+2020-05-27, RSI: 64.42, Position: 0
+2020-05-28, RSI: 64.51, Position: 0
+2020-05-29, RSI: 64.13, Position: 0
+2020-06-01, RSI: 66.81, Position: 0
+2020-06-02, RSI: 67.80, Position: 0
+2020-06-03, RSI: 68.98, Position: 0
+2020-06-04, RSI: 64.93, Position: 0
+2020-06-05, RSI: 70.96, Position: 0
+2020-06-05, Placing SELL for size: 710 (retry 0)
+2020-06-05, 📉 SELL SIGNAL placed with size 710
+2020-06-08, SELL EXECUTED at 82.56 for -710 units
+2020-06-08, RSI: 72.06, Position: -710
+2020-06-09, RSI: 77.10, Position: -710
+2020-06-10, RSI: 80.32, Position: -710
+2020-06-11, RSI: 62.29, Position: -710
+2020-06-12, RSI: 63.79, Position: -710
+2020-06-15, RSI: 65.90, Position: -710
+2020-06-16, RSI: 69.98, Position: -710
+2020-06-17, RSI: 69.50, Position: -710
+2020-06-18, RSI: 69.56, Position: -710
+2020-06-19, RSI: 67.36, Position: -710
+2020-06-22, RSI: 71.75, Position: -710
+2020-06-23, RSI: 74.81, Position: -710
+2020-06-24, RSI: 68.10, Position: -710
+2020-06-25, RSI: 70.23, Position: -710
+2020-06-26, RSI: 60.12, Position: -710
+2020-06-29, RSI: 64.16, Position: -710
+2020-06-30, RSI: 65.55, Position: -710
+2020-07-01, RSI: 64.93, Position: -710
+2020-07-02, RSI: 64.93, Position: -710
+2020-07-06, RSI: 69.64, Position: -710
+2020-07-07, RSI: 68.46, Position: -710
+2020-07-08, RSI: 72.24, Position: -710
+2020-07-09, RSI: 72.90, Position: -710
+2020-07-10, RSI: 73.18, Position: -710
+2020-07-13, RSI: 71.09, Position: -710
+2020-07-14, RSI: 73.96, Position: -710
+2020-07-15, RSI: 75.08, Position: -710
+2020-07-16, RSI: 69.27, Position: -710
+2020-07-17, RSI: 68.35, Position: -710
+2020-07-20, RSI: 72.47, Position: -710
+2020-07-21, RSI: 66.26, Position: -710
+2020-07-22, RSI: 66.87, Position: -710
+2020-07-23, RSI: 50.74, Position: -710
+2020-07-24, RSI: 50.06, Position: -710
+2020-07-27, RSI: 56.08, Position: -710
+2020-07-28, RSI: 51.35, Position: -710
+2020-07-29, RSI: 55.94, Position: -710
+2020-07-30, RSI: 58.64, Position: -710
+2020-07-31, RSI: 73.80, Position: -710
+2020-08-03, RSI: 76.29, Position: -710
+2020-08-04, RSI: 76.93, Position: -710
+2020-08-05, RSI: 77.29, Position: -710
+2020-08-06, RSI: 80.47, Position: -710
+2020-08-07, RSI: 72.52, Position: -710
+2020-08-10, RSI: 74.11, Position: -710
+2020-08-11, RSI: 65.61, Position: -710
+2020-08-12, RSI: 69.67, Position: -710
+2020-08-13, RSI: 71.66, Position: -710
+2020-08-14, RSI: 71.40, Position: -710
+2020-08-17, RSI: 70.60, Position: -710
+2020-08-18, RSI: 71.69, Position: -710
+2020-08-19, RSI: 71.86, Position: -710
+2020-08-20, RSI: 74.75, Position: -710
+2020-08-21, RSI: 80.02, Position: -710
+2020-08-24, RSI: 81.05, Position: -710
+2020-08-25, RSI: 78.02, Position: -710
+2020-08-26, RSI: 79.39, Position: -710
+2020-08-27, RSI: 74.93, Position: -710
+2020-08-28, RSI: 74.32, Position: -710
+2020-08-31, RSI: 78.26, Position: -710
+2020-09-01, RSI: 81.89, Position: -710
+2020-09-02, RSI: 74.63, Position: -710
+2020-09-03, RSI: 54.83, Position: -710
+2020-09-04, RSI: 54.93, Position: -710
+2020-09-08, RSI: 44.39, Position: -710
+2020-09-08, 🔁 CLOSING SHORT: RSI crossed below 50
+2020-09-09, BUY EXECUTED at 117.26 for 710 units
+2020-09-09, ⚠️ Contract fallback used: 1
+2020-09-09, 📦 TRADE LOGGED: contracts=1, pnl=-24635.226516723633
+2020-09-09, RSI: 50.09, Position: 0
+2020-09-10, RSI: 45.79, Position: 0
+2020-09-11, RSI: 44.20, Position: 0
+2020-09-14, RSI: 48.54, Position: 0
+2020-09-15, RSI: 48.77, Position: 0
+2020-09-16, RSI: 44.69, Position: 0
+2020-09-17, RSI: 42.68, Position: 0
+2020-09-18, RSI: 38.97, Position: 0
+2020-09-21, RSI: 43.83, Position: 0
+2020-09-22, RSI: 46.29, Position: 0
+2020-09-23, RSI: 41.05, Position: 0
+2020-09-24, RSI: 42.69, Position: 0
+2020-09-25, RSI: 48.39, Position: 0
+2020-09-28, RSI: 51.80, Position: 0
+2020-09-29, RSI: 50.63, Position: 0
+2020-09-30, RSI: 52.90, Position: 0
+2020-10-01, RSI: 54.19, Position: 0
+2020-10-02, RSI: 48.67, Position: 0
+2020-10-05, RSI: 53.39, Position: 0
+2020-10-06, RSI: 48.75, Position: 0
+2020-10-07, RSI: 51.37, Position: 0
+2020-10-08, RSI: 51.21, Position: 0
+2020-10-09, RSI: 54.03, Position: 0
+2020-10-12, RSI: 62.67, Position: 0
+2020-10-13, RSI: 57.50, Position: 0
+2020-10-14, RSI: 57.60, Position: 0
+2020-10-15, RSI: 56.82, Position: 0
+2020-10-16, RSI: 54.01, Position: 0
+2020-10-19, RSI: 49.30, Position: 0
+2020-10-20, RSI: 51.59, Position: 0
+2020-10-21, RSI: 50.56, Position: 0
+2020-10-22, RSI: 48.73, Position: 0
+2020-10-23, RSI: 47.55, Position: 0
+2020-10-26, RSI: 47.57, Position: 0
+2020-10-27, RSI: 50.59, Position: 0
+2020-10-28, RSI: 41.60, Position: 0
+2020-10-29, RSI: 49.04, Position: 0
+2020-10-30, RSI: 40.36, Position: 0
+2020-11-02, RSI: 40.26, Position: 0
+2020-11-03, RSI: 43.26, Position: 0
+2020-11-04, RSI: 50.49, Position: 0
+2020-11-05, RSI: 55.96, Position: 0
+2020-11-06, RSI: 55.42, Position: 0
+2020-11-09, RSI: 51.61, Position: 0
+2020-11-10, RSI: 51.05, Position: 0
+2020-11-11, RSI: 56.18, Position: 0
+2020-11-12, RSI: 55.68, Position: 0
+2020-11-13, RSI: 55.76, Position: 0
+2020-11-16, RSI: 57.39, Position: 0
+2020-11-17, RSI: 55.46, Position: 0
+2020-11-18, RSI: 52.62, Position: 0
+2020-11-19, RSI: 53.76, Position: 0
+2020-11-20, RSI: 50.94, Position: 0
+2020-11-23, RSI: 44.23, Position: 0
+2020-11-24, RSI: 47.07, Position: 0
+2020-11-25, RSI: 48.90, Position: 0
+2020-11-27, RSI: 50.10, Position: 0
+2020-11-30, RSI: 55.12, Position: 0
+2020-12-01, RSI: 61.36, Position: 0
+2020-12-02, RSI: 61.92, Position: 0
+2020-12-03, RSI: 61.55, Position: 0
+2020-12-04, RSI: 59.64, Position: 0
+2020-12-07, RSI: 62.37, Position: 0
+2020-12-08, RSI: 63.49, Position: 0
+2020-12-09, RSI: 56.09, Position: 0
+2020-12-10, RSI: 58.98, Position: 0
+2020-12-11, RSI: 56.69, Position: 0
+2020-12-14, RSI: 54.95, Position: 0
+2020-12-15, RSI: 65.88, Position: 0
+2020-12-16, RSI: 65.68, Position: 0
+2020-12-17, RSI: 67.03, Position: 0
+2020-12-18, RSI: 61.10, Position: 0
+2020-12-21, RSI: 63.76, Position: 0
+2020-12-22, RSI: 69.05, Position: 0
+2020-12-23, RSI: 66.42, Position: 0
+2020-12-24, RSI: 67.87, Position: 0
+2020-12-28, RSI: 73.60, Position: 0
+2020-12-28, Placing SELL for size: 268 (retry 0)
+2020-12-28, 📉 SELL SIGNAL placed with size 268
+2020-12-29, SELL EXECUTED at 138.05 for -268 units
+2020-12-29, RSI: 68.52, Position: -268
+2020-12-30, RSI: 65.45, Position: -268
+2020-12-31, RSI: 62.74, Position: -268
+2021-01-04, RSI: 54.93, Position: -268
+2021-01-05, RSI: 57.70, Position: -268
+2021-01-06, RSI: 48.81, Position: -268
+2021-01-06, 🔁 CLOSING SHORT: RSI crossed below 50
+2021-01-07, BUY EXECUTED at 128.36 for 268 units
+2021-01-07, ⚠️ Contract fallback used: 1
+2021-01-07, 📦 TRADE LOGGED: contracts=1, pnl=2596.920654296875
+2021-01-07, RSI: 55.97, Position: 0
+2021-01-08, RSI: 57.63, Position: 0
+2021-01-11, RSI: 51.88, Position: 0
+2021-01-12, RSI: 51.56, Position: 0
+2021-01-13, RSI: 55.07, Position: 0
+2021-01-14, RSI: 51.28, Position: 0
+2021-01-15, RSI: 48.08, Position: 0
+2021-01-19, RSI: 49.41, Position: 0
+2021-01-20, RSI: 56.65, Position: 0
+2021-01-21, RSI: 63.18, Position: 0
+2021-01-22, RSI: 65.71, Position: 0
+2021-01-25, RSI: 69.65, Position: 0
+2021-01-26, RSI: 69.88, Position: 0
+2021-01-27, RSI: 67.34, Position: 0
+2021-01-28, RSI: 57.22, Position: 0
+2021-01-29, RSI: 49.03, Position: 0
+2021-02-01, RSI: 52.16, Position: 0
+2021-02-02, RSI: 53.37, Position: 0
+2021-02-03, RSI: 51.64, Position: 0
+2021-02-04, RSI: 56.61, Position: 0
+2021-02-05, RSI: 55.49, Position: 0
+2021-02-08, RSI: 55.71, Position: 0
+2021-02-09, RSI: 53.95, Position: 0
+2021-02-10, RSI: 52.71, Position: 0
+2021-02-11, RSI: 52.17, Position: 0
+2021-02-12, RSI: 52.66, Position: 0
+2021-02-16, RSI: 47.93, Position: 0
+2021-02-17, RSI: 43.40, Position: 0
+2021-02-18, RSI: 41.38, Position: 0
+2021-02-19, RSI: 41.79, Position: 0
+2021-02-22, RSI: 35.30, Position: 0
+2021-02-23, RSI: 35.09, Position: 0
+2021-02-24, RSI: 34.28, Position: 0
+2021-02-25, RSI: 28.28, Position: 0
+2021-02-25, Placing BUY for size: 322 (retry 0)
+2021-02-25, 📈 BUY SIGNAL placed with size 322
+2021-02-26, BUY EXECUTED at 122.59 for 322 units
+2021-02-26, RSI: 29.11, Position: 322
+2021-03-01, RSI: 45.49, Position: 322
+2021-03-02, RSI: 41.29, Position: 322
+2021-03-03, RSI: 37.06, Position: 322
+2021-03-04, RSI: 34.65, Position: 322
+2021-03-05, RSI: 37.58, Position: 322
+2021-03-08, RSI: 31.61, Position: 322
+2021-03-09, RSI: 41.03, Position: 322
+2021-03-10, RSI: 39.65, Position: 322
+2021-03-11, RSI: 43.32, Position: 322
+2021-03-12, RSI: 42.03, Position: 322
+2021-03-15, RSI: 47.40, Position: 322
+2021-03-16, RSI: 50.06, Position: 322
+2021-03-16, 🔁 CLOSING LONG: RSI crossed above 50
+2021-03-17, SELL EXECUTED at 124.05 for -322 units
+2021-03-17, ⚠️ Contract fallback used: 1
+2021-03-17, 📦 TRADE LOGGED: contracts=1, pnl=470.1221618652344
+2021-03-17, RSI: 48.70, Position: 0
+2021-03-18, RSI: 42.25, Position: 0
+2021-03-19, RSI: 41.49, Position: 0
+2021-03-22, RSI: 47.82, Position: 0
+2021-03-23, RSI: 46.47, Position: 0
+2021-03-24, RSI: 42.71, Position: 0
+2021-03-25, RSI: 43.71, Position: 0
+2021-03-26, RSI: 45.00, Position: 0
+2021-03-29, RSI: 45.38, Position: 0
+2021-03-30, RSI: 42.69, Position: 0
+2021-03-31, RSI: 47.73, Position: 0
+2021-04-01, RSI: 49.54, Position: 0
+2021-04-05, RSI: 55.22, Position: 0
+2021-04-06, RSI: 55.79, Position: 0
+2021-04-07, RSI: 58.88, Position: 0
+2021-04-08, RSI: 62.94, Position: 0
+2021-04-09, RSI: 66.73, Position: 0
+2021-04-12, RSI: 62.16, Position: 0
+2021-04-13, RSI: 66.63, Position: 0
+2021-04-14, RSI: 60.82, Position: 0
+2021-04-15, RSI: 64.27, Position: 0
+2021-04-16, RSI: 63.44, Position: 0
+2021-04-19, RSI: 64.43, Position: 0
+2021-04-20, RSI: 59.99, Position: 0
+2021-04-21, RSI: 60.64, Position: 0
+2021-04-22, RSI: 56.63, Position: 0
+2021-04-23, RSI: 60.88, Position: 0
+2021-04-26, RSI: 61.57, Position: 0
+2021-04-27, RSI: 60.63, Position: 0
+2021-04-28, RSI: 58.28, Position: 0
+2021-04-29, RSI: 57.98, Position: 0
+2021-04-30, RSI: 52.16, Position: 0
+2021-05-03, RSI: 54.77, Position: 0
+2021-05-04, RSI: 43.62, Position: 0
+2021-05-05, RSI: 44.27, Position: 0
+2021-05-06, RSI: 48.48, Position: 0
+2021-05-07, RSI: 49.65, Position: 0
+2021-05-10, RSI: 42.25, Position: 0
+2021-05-11, RSI: 40.43, Position: 0
+2021-05-12, RSI: 35.02, Position: 0
+2021-05-13, RSI: 40.98, Position: 0
+2021-05-14, RSI: 46.90, Position: 0
+2021-05-17, RSI: 44.61, Position: 0
+2021-05-18, RSI: 41.95, Position: 0
+2021-05-19, RSI: 41.65, Position: 0
+2021-05-20, RSI: 48.20, Position: 0
+2021-05-21, RSI: 44.35, Position: 0
+2021-05-24, RSI: 48.30, Position: 0
+2021-05-25, RSI: 47.86, Position: 0
+2021-05-26, RSI: 47.75, Position: 0
+2021-05-27, RSI: 44.11, Position: 0
+2021-05-28, RSI: 42.62, Position: 0
+2021-06-01, RSI: 41.87, Position: 0
+2021-06-02, RSI: 44.37, Position: 0
+2021-06-03, RSI: 40.70, Position: 0
+2021-06-04, RSI: 47.87, Position: 0
+2021-06-07, RSI: 47.90, Position: 0
+2021-06-08, RSI: 50.38, Position: 0
+2021-06-09, RSI: 51.54, Position: 0
+2021-06-10, RSI: 48.37, Position: 0
+2021-06-11, RSI: 52.22, Position: 0
+2021-06-14, RSI: 60.27, Position: 0
+2021-06-15, RSI: 57.47, Position: 0
+2021-06-16, RSI: 58.73, Position: 0
+2021-06-17, RSI: 62.55, Position: 0
+2021-06-18, RSI: 57.87, Position: 0
+2021-06-21, RSI: 62.10, Position: 0
+2021-06-22, RSI: 65.50, Position: 0
+2021-06-23, RSI: 64.46, Position: 0
+2021-06-24, RSI: 63.34, Position: 0
+2021-06-25, RSI: 62.14, Position: 0
+2021-06-28, RSI: 66.01, Position: 0
+2021-06-29, RSI: 69.16, Position: 0
+2021-06-30, RSI: 70.36, Position: 0
+2021-06-30, Placing SELL for size: 288 (retry 0)
+2021-06-30, 📉 SELL SIGNAL placed with size 288
+2021-07-01, SELL EXECUTED at 136.60 for -288 units
+2021-07-01, RSI: 70.96, Position: -288
+2021-07-02, RSI: 75.58, Position: -288
+2021-07-06, RSI: 78.42, Position: -288
+2021-07-07, RSI: 81.31, Position: -288
+2021-07-08, RSI: 75.62, Position: -288
+2021-07-09, RSI: 77.95, Position: -288
+2021-07-12, RSI: 75.42, Position: -288
+2021-07-13, RSI: 76.93, Position: -288
+2021-07-14, RSI: 80.84, Position: -288
+2021-07-15, RSI: 78.12, Position: -288
+2021-07-16, RSI: 70.18, Position: -288
+2021-07-19, RSI: 58.19, Position: -288
+2021-07-20, RSI: 64.35, Position: -288
+2021-07-21, RSI: 62.34, Position: -288
+2021-07-22, RSI: 64.56, Position: -288
+2021-07-23, RSI: 67.18, Position: -288
+2021-07-26, RSI: 67.81, Position: -288
+2021-07-27, RSI: 61.31, Position: -288
+2021-07-28, RSI: 56.59, Position: -288
+2021-07-29, RSI: 57.88, Position: -288
+2021-07-30, RSI: 58.32, Position: -288
+2021-08-02, RSI: 57.32, Position: -288
+2021-08-03, RSI: 61.21, Position: -288
+2021-08-04, RSI: 59.90, Position: -288
+2021-08-05, RSI: 60.15, Position: -288
+2021-08-06, RSI: 56.99, Position: -288
+2021-08-09, RSI: 56.82, Position: -288
+2021-08-10, RSI: 55.04, Position: -288
+2021-08-11, RSI: 55.83, Position: -288
+2021-08-12, RSI: 63.81, Position: -288
+2021-08-13, RSI: 64.29, Position: -288
+2021-08-16, RSI: 68.62, Position: -288
+2021-08-17, RSI: 64.73, Position: -288
+2021-08-18, RSI: 51.73, Position: -288
+2021-08-19, RSI: 52.64, Position: -288
+2021-08-20, RSI: 56.51, Position: -288
+2021-08-23, RSI: 60.09, Position: -288
+2021-08-24, RSI: 59.77, Position: -288
+2021-08-25, RSI: 55.41, Position: -288
+2021-08-26, RSI: 52.71, Position: -288
+2021-08-27, RSI: 55.71, Position: -288
+2021-08-30, RSI: 65.70, Position: -288
+2021-08-31, RSI: 61.44, Position: -288
+2021-09-01, RSI: 62.81, Position: -288
+2021-09-02, RSI: 65.05, Position: -288
+2021-09-03, RSI: 66.30, Position: -288
+2021-09-07, RSI: 70.47, Position: -288
+2021-09-08, RSI: 64.76, Position: -288
+2021-09-09, RSI: 61.25, Position: -288
+2021-09-10, RSI: 47.60, Position: -288
+2021-09-10, 🔁 CLOSING SHORT: RSI crossed below 50
+2021-09-13, BUY EXECUTED at 150.63 for 288 units
+2021-09-13, ⚠️ Contract fallback used: 1
+2021-09-13, 📦 TRADE LOGGED: contracts=1, pnl=-4040.6396484375
+2021-09-13, RSI: 48.99, Position: 0
+2021-09-14, RSI: 45.77, Position: 0
+2021-09-15, RSI: 48.11, Position: 0
+2021-09-16, RSI: 47.53, Position: 0
+2021-09-17, RSI: 41.38, Position: 0
+2021-09-20, RSI: 35.70, Position: 0
+2021-09-21, RSI: 37.16, Position: 0
+2021-09-22, RSI: 43.93, Position: 0
+2021-09-23, RSI: 46.44, Position: 0
+2021-09-24, RSI: 46.68, Position: 0
+2021-09-27, RSI: 43.14, Position: 0
+2021-09-28, RSI: 36.50, Position: 0
+2021-09-29, RSI: 39.18, Position: 0
+2021-09-30, RSI: 36.77, Position: 0
+2021-10-01, RSI: 40.20, Position: 0
+2021-10-04, RSI: 34.11, Position: 0
+2021-10-05, RSI: 39.64, Position: 0
+2021-10-06, RSI: 42.00, Position: 0
+2021-10-07, RSI: 45.35, Position: 0
+2021-10-08, RSI: 44.51, Position: 0
+2021-10-11, RSI: 44.31, Position: 0
+2021-10-12, RSI: 41.38, Position: 0
+2021-10-13, RSI: 40.06, Position: 0
+2021-10-14, RSI: 48.46, Position: 0
+2021-10-15, RSI: 51.25, Position: 0
+2021-10-18, RSI: 55.37, Position: 0
+2021-10-19, RSI: 60.06, Position: 0
+2021-10-20, RSI: 61.06, Position: 0
+2021-10-21, RSI: 61.52, Position: 0
+2021-10-22, RSI: 58.85, Position: 0
+2021-10-25, RSI: 58.68, Position: 0
+2021-10-26, RSI: 60.39, Position: 0
+2021-10-27, RSI: 58.59, Position: 0
+2021-10-28, RSI: 66.98, Position: 0
+2021-10-29, RSI: 57.62, Position: 0
+2021-11-01, RSI: 55.10, Position: 0
+2021-11-02, RSI: 57.61, Position: 0
+2021-11-03, RSI: 60.89, Position: 0
+2021-11-04, RSI: 59.12, Position: 0
+2021-11-05, RSI: 59.87, Position: 0
+2021-11-08, RSI: 56.89, Position: 0
+2021-11-09, RSI: 57.88, Position: 0
+2021-11-10, RSI: 48.46, Position: 0
+2021-11-11, RSI: 48.31, Position: 0
+2021-11-12, RSI: 54.58, Position: 0
+2021-11-15, RSI: 54.61, Position: 0
+2021-11-16, RSI: 57.44, Position: 0
+2021-11-17, RSI: 63.52, Position: 0
+2021-11-18, RSI: 71.30, Position: 0
+2021-11-18, Placing SELL for size: 226 (retry 0)
+2021-11-18, 📉 SELL SIGNAL placed with size 226
+2021-11-19, SELL EXECUTED at 157.65 for -226 units
+2021-11-19, RSI: 74.83, Position: -226
+2021-11-22, RSI: 75.40, Position: -226
+2021-11-23, RSI: 75.89, Position: -226
+2021-11-24, RSI: 76.58, Position: -226
+2021-11-26, RSI: 59.13, Position: -226
+2021-11-29, RSI: 64.89, Position: -226
+2021-11-30, RSI: 71.31, Position: -226
+2021-12-01, RSI: 69.87, Position: -226
+2021-12-02, RSI: 67.09, Position: -226
+2021-12-03, RSI: 62.03, Position: -226
+2021-12-06, RSI: 66.90, Position: -226
+2021-12-07, RSI: 73.15, Position: -226
+2021-12-08, RSI: 76.35, Position: -226
+2021-12-09, RSI: 75.06, Position: -226
+2021-12-10, RSI: 78.69, Position: -226
+2021-12-13, RSI: 70.33, Position: -226
+2021-12-14, RSI: 67.40, Position: -226
+2021-12-15, RSI: 71.85, Position: -226
+2021-12-16, RSI: 59.46, Position: -226
+2021-12-17, RSI: 57.75, Position: -226
+2021-12-20, RSI: 55.62, Position: -226
+2021-12-21, RSI: 59.38, Position: -226
+2021-12-22, RSI: 62.21, Position: -226
+2021-12-23, RSI: 62.88, Position: -226
+2021-12-27, RSI: 66.89, Position: -226
+2021-12-28, RSI: 64.95, Position: -226
+2021-12-29, RSI: 65.04, Position: -226
+2021-12-30, RSI: 62.66, Position: -226
+2021-12-31, RSI: 61.37, Position: -226
+2022-01-03, RSI: 66.60, Position: -226
+2022-01-04, RSI: 61.90, Position: -226
+2022-01-05, RSI: 53.49, Position: -226
+2022-01-06, RSI: 49.10, Position: -226
+2022-01-06, 🔁 CLOSING SHORT: RSI crossed below 50
+2022-01-07, BUY EXECUTED at 172.89 for 226 units
+2022-01-07, ⚠️ Contract fallback used: 1
+2022-01-07, 📦 TRADE LOGGED: contracts=1, pnl=-3444.241241455078
+2022-01-07, RSI: 49.36, Position: 0
+2022-01-10, RSI: 49.40, Position: 0
+2022-01-11, RSI: 54.03, Position: 0
+2022-01-12, RSI: 54.73, Position: 0
+2022-01-13, RSI: 48.82, Position: 0
+2022-01-14, RSI: 50.34, Position: 0
+2022-01-18, RSI: 45.00, Position: 0
+2022-01-19, RSI: 40.00, Position: 0
+2022-01-20, RSI: 37.82, Position: 0
+2022-01-21, RSI: 35.29, Position: 0
+2022-01-24, RSI: 34.36, Position: 0
+2022-01-25, RSI: 32.23, Position: 0
+2022-01-26, RSI: 32.13, Position: 0
+2022-01-27, RSI: 31.55, Position: 0
+2022-01-28, RSI: 53.05, Position: 0
+2022-01-31, RSI: 58.65, Position: 0
+2022-02-01, RSI: 58.36, Position: 0
+2022-02-02, RSI: 59.89, Position: 0
+2022-02-03, RSI: 54.72, Position: 0
+2022-02-04, RSI: 53.86, Position: 0
+2022-02-07, RSI: 52.57, Position: 0
+2022-02-08, RSI: 57.33, Position: 0
+2022-02-09, RSI: 59.34, Position: 0
+2022-02-10, RSI: 51.80, Position: 0
+2022-02-11, RSI: 46.48, Position: 0
+2022-02-14, RSI: 46.89, Position: 0
+2022-02-15, RSI: 53.11, Position: 0
+2022-02-16, RSI: 52.71, Position: 0
+2022-02-17, RSI: 46.78, Position: 0
+2022-02-18, RSI: 44.46, Position: 0
+2022-02-22, RSI: 40.40, Position: 0
+2022-02-23, RSI: 35.42, Position: 0
+2022-02-24, RSI: 40.39, Position: 0
+2022-02-25, RSI: 44.05, Position: 0
+2022-02-28, RSI: 44.52, Position: 0
+2022-03-01, RSI: 41.83, Position: 0
+2022-03-02, RSI: 47.78, Position: 0
+2022-03-03, RSI: 47.27, Position: 0
+2022-03-04, RSI: 42.71, Position: 0
+2022-03-07, RSI: 37.75, Position: 0
+2022-03-08, RSI: 35.60, Position: 0
+2022-03-09, RSI: 45.47, Position: 0
+2022-03-10, RSI: 40.14, Position: 0
+2022-03-11, RSI: 36.24, Position: 0
+2022-03-14, RSI: 32.53, Position: 0
+2022-03-15, RSI: 39.74, Position: 0
+2022-03-16, RSI: 46.00, Position: 0
+2022-03-17, RSI: 47.34, Position: 0
+2022-03-18, RSI: 51.59, Position: 0
+2022-03-21, RSI: 53.28, Position: 0
+2022-03-22, RSI: 57.23, Position: 0
+2022-03-23, RSI: 58.74, Position: 0
+2022-03-24, RSI: 62.70, Position: 0
+2022-03-25, RSI: 63.34, Position: 0
+2022-03-28, RSI: 64.23, Position: 0
+2022-03-29, RSI: 67.48, Position: 0
+2022-03-30, RSI: 65.22, Position: 0
+2022-03-31, RSI: 59.52, Position: 0
+2022-04-01, RSI: 58.99, Position: 0
+2022-04-04, RSI: 63.75, Position: 0
+2022-04-05, RSI: 57.83, Position: 0
+2022-04-06, RSI: 52.79, Position: 0
+2022-04-07, RSI: 53.21, Position: 0
+2022-04-08, RSI: 50.03, Position: 0
+2022-04-11, RSI: 44.02, Position: 0
+2022-04-12, RSI: 47.04, Position: 0
+2022-04-13, RSI: 51.10, Position: 0
+2022-04-14, RSI: 44.27, Position: 0
+2022-04-18, RSI: 44.00, Position: 0
+2022-04-19, RSI: 47.68, Position: 0
+2022-04-20, RSI: 47.43, Position: 0
+2022-04-21, RSI: 46.22, Position: 0
+2022-04-22, RSI: 39.92, Position: 0
+2022-04-25, RSI: 41.92, Position: 0
+2022-04-26, RSI: 34.92, Position: 0
+2022-04-27, RSI: 34.68, Position: 0
+2022-04-28, RSI: 46.63, Position: 0
+2022-04-29, RSI: 39.96, Position: 0
+2022-05-02, RSI: 40.43, Position: 0
+2022-05-03, RSI: 42.82, Position: 0
+2022-05-04, RSI: 51.78, Position: 0
+2022-05-05, RSI: 41.80, Position: 0
+2022-05-06, RSI: 42.46, Position: 0
+2022-05-09, RSI: 37.76, Position: 0
+2022-05-10, RSI: 41.06, Position: 0
+2022-05-11, RSI: 34.60, Position: 0
+2022-05-12, RSI: 31.93, Position: 0
+2022-05-13, RSI: 37.88, Position: 0
+2022-05-16, RSI: 36.69, Position: 0
+2022-05-17, RSI: 41.37, Position: 0
+2022-05-18, RSI: 35.02, Position: 0
+2022-05-19, RSI: 32.79, Position: 0
+2022-05-20, RSI: 33.11, Position: 0
+2022-05-23, RSI: 40.12, Position: 0
+2022-05-24, RSI: 37.98, Position: 0
+2022-05-25, RSI: 38.19, Position: 0
+2022-05-26, RSI: 42.39, Position: 0
+2022-05-27, RSI: 49.08, Position: 0
+2022-05-31, RSI: 48.26, Position: 0
+2022-06-01, RSI: 48.12, Position: 0
+2022-06-02, RSI: 51.09, Position: 0
+2022-06-03, RSI: 44.67, Position: 0
+2022-06-06, RSI: 45.63, Position: 0
+2022-06-07, RSI: 48.86, Position: 0
+2022-06-08, RSI: 47.96, Position: 0
+2022-06-09, RSI: 42.07, Position: 0
+2022-06-10, RSI: 37.00, Position: 0
+2022-06-13, RSI: 32.93, Position: 0
+2022-06-14, RSI: 34.24, Position: 0
+2022-06-15, RSI: 38.17, Position: 0
+2022-06-16, RSI: 33.79, Position: 0
+2022-06-17, RSI: 36.00, Position: 0
+2022-06-21, RSI: 41.99, Position: 0
+2022-06-22, RSI: 41.48, Position: 0
+2022-06-23, RSI: 45.45, Position: 0
+2022-06-24, RSI: 49.70, Position: 0
+2022-06-27, RSI: 49.70, Position: 0
+2022-06-28, RSI: 44.67, Position: 0
+2022-06-29, RSI: 47.12, Position: 0
+2022-06-30, RSI: 44.17, Position: 0
+2022-07-01, RSI: 47.30, Position: 0
+2022-07-05, RSI: 50.83, Position: 0
+2022-07-06, RSI: 52.59, Position: 0
+2022-07-07, RSI: 56.81, Position: 0
+2022-07-08, RSI: 57.63, Position: 0
+2022-07-11, RSI: 54.16, Position: 0
+2022-07-12, RSI: 55.48, Position: 0
+2022-07-13, RSI: 54.84, Position: 0
+2022-07-14, RSI: 58.92, Position: 0
+2022-07-15, RSI: 61.07, Position: 0
+2022-07-18, RSI: 55.36, Position: 0
+2022-07-19, RSI: 60.42, Position: 0
+2022-07-20, RSI: 62.77, Position: 0
+2022-07-21, RSI: 65.29, Position: 0
+2022-07-22, RSI: 62.79, Position: 0
+2022-07-25, RSI: 60.54, Position: 0
+2022-07-26, RSI: 57.89, Position: 0
+2022-07-27, RSI: 64.35, Position: 0
+2022-07-28, RSI: 64.98, Position: 0
+2022-07-29, RSI: 70.16, Position: 0
+2022-07-29, Placing SELL for size: 201 (retry 0)
+2022-07-29, 📉 SELL SIGNAL placed with size 201
+2022-08-01, SELL EXECUTED at 161.01 for -201 units
+2022-08-01, RSI: 68.06, Position: -201
+2022-08-02, RSI: 64.92, Position: -201
+2022-08-03, RSI: 70.83, Position: -201
+2022-08-04, RSI: 70.17, Position: -201
+2022-08-05, RSI: 69.16, Position: -201
+2022-08-08, RSI: 68.06, Position: -201
+2022-08-09, RSI: 68.12, Position: -201
+2022-08-10, RSI: 72.65, Position: -201
+2022-08-11, RSI: 70.77, Position: -201
+2022-08-12, RSI: 74.22, Position: -201
+2022-08-15, RSI: 75.18, Position: -201
+2022-08-16, RSI: 74.74, Position: -201
+2022-08-17, RSI: 76.16, Position: -201
+2022-08-18, RSI: 74.96, Position: -201
+2022-08-19, RSI: 67.48, Position: -201
+2022-08-22, RSI: 58.09, Position: -201
+2022-08-23, RSI: 57.36, Position: -201
+2022-08-24, RSI: 57.86, Position: -201
+2022-08-25, RSI: 61.95, Position: -201
+2022-08-26, RSI: 48.88, Position: -201
+2022-08-26, 🔁 CLOSING SHORT: RSI crossed below 50
+2022-08-29, BUY EXECUTED at 161.15 for 201 units
+2022-08-29, ⚠️ Contract fallback used: 1
+2022-08-29, 📦 TRADE LOGGED: contracts=1, pnl=-28.139877319335938
+2022-08-29, RSI: 45.28, Position: 0
+2022-08-30, RSI: 41.64, Position: 0
+2022-08-31, RSI: 39.32, Position: 0
+2022-09-01, RSI: 40.87, Position: 0
+2022-09-02, RSI: 37.83, Position: 0
+2022-09-06, RSI: 36.11, Position: 0
+2022-09-07, RSI: 39.43, Position: 0
+2022-09-08, RSI: 37.24, Position: 0
+2022-09-09, RSI: 43.75, Position: 0
+2022-09-12, RSI: 54.37, Position: 0
+2022-09-13, RSI: 41.14, Position: 0
+2022-09-14, RSI: 43.41, Position: 0
+2022-09-15, RSI: 40.08, Position: 0
+2022-09-16, RSI: 38.28, Position: 0
+2022-09-19, RSI: 44.36, Position: 0
+2022-09-20, RSI: 47.91, Position: 0
+2022-09-21, RSI: 43.95, Position: 0
+2022-09-22, RSI: 42.77, Position: 0
+2022-09-23, RSI: 40.06, Position: 0
+2022-09-26, RSI: 40.66, Position: 0
+2022-09-27, RSI: 42.45, Position: 0
+2022-09-28, RSI: 39.93, Position: 0
+2022-09-29, RSI: 32.06, Position: 0
+2022-09-30, RSI: 28.53, Position: 0
+2022-09-30, Placing BUY for size: 236 (retry 0)
+2022-09-30, 📈 BUY SIGNAL placed with size 236
+2022-10-03, BUY EXECUTED at 138.21 for 236 units
+2022-10-03, RSI: 36.05, Position: 236
+2022-10-04, RSI: 41.72, Position: 236
+2022-10-05, RSI: 42.17, Position: 236
+2022-10-06, RSI: 41.06, Position: 236
+2022-10-07, RSI: 35.50, Position: 236
+2022-10-10, RSI: 36.08, Position: 236
+2022-10-11, RSI: 34.63, Position: 236
+2022-10-12, RSI: 33.97, Position: 236
+2022-10-13, RSI: 42.48, Position: 236
+2022-10-14, RSI: 37.34, Position: 236
+2022-10-17, RSI: 43.75, Position: 236
+2022-10-18, RSI: 45.73, Position: 236
+2022-10-19, RSI: 45.90, Position: 236
+2022-10-20, RSI: 45.25, Position: 236
+2022-10-21, RSI: 51.36, Position: 236
+2022-10-21, 🔁 CLOSING LONG: RSI crossed above 50
+2022-10-24, SELL EXECUTED at 147.19 for -236 units
+2022-10-24, ⚠️ Contract fallback used: 1
+2022-10-24, 📦 TRADE LOGGED: contracts=1, pnl=2119.2789916992188
+2022-10-24, RSI: 54.43, Position: 0
+2022-10-25, RSI: 58.20, Position: 0
+2022-10-26, RSI: 53.29, Position: 0
+2022-10-27, RSI: 46.81, Position: 0
+2022-10-28, RSI: 59.54, Position: 0
+2022-10-31, RSI: 56.36, Position: 0
+2022-11-01, RSI: 52.94, Position: 0
+2022-11-02, RSI: 46.58, Position: 0
+2022-11-03, RSI: 40.80, Position: 0
+2022-11-04, RSI: 40.36, Position: 0
+2022-11-07, RSI: 41.10, Position: 0
+2022-11-08, RSI: 41.93, Position: 0
+2022-11-09, RSI: 37.40, Position: 0
+2022-11-10, RSI: 51.89, Position: 0
+2022-11-11, RSI: 54.56, Position: 0
+2022-11-14, RSI: 52.97, Position: 0
+2022-11-15, RSI: 54.73, Position: 0
+2022-11-16, RSI: 53.21, Position: 0
+2022-11-17, RSI: 55.28, Position: 0
+2022-11-18, RSI: 55.90, Position: 0
+2022-11-21, RSI: 51.48, Position: 0
+2022-11-22, RSI: 54.07, Position: 0
+2022-11-23, RSI: 55.13, Position: 0
+2022-11-25, RSI: 50.92, Position: 0
+2022-11-28, RSI: 45.96, Position: 0
+2022-11-29, RSI: 42.47, Position: 0
+2022-11-30, RSI: 51.41, Position: 0
+2022-12-01, RSI: 51.74, Position: 0
+2022-12-02, RSI: 51.08, Position: 0
+2022-12-05, RSI: 49.46, Position: 0
+2022-12-06, RSI: 44.65, Position: 0
+2022-12-07, RSI: 42.31, Position: 0
+2022-12-08, RSI: 45.01, Position: 0
+2022-12-09, RSI: 44.37, Position: 0
+2022-12-12, RSI: 48.15, Position: 0
+2022-12-13, RSI: 49.69, Position: 0
+2022-12-14, RSI: 46.26, Position: 0
+2022-12-15, RSI: 37.90, Position: 0
+2022-12-16, RSI: 35.83, Position: 0
+2022-12-19, RSI: 33.70, Position: 0
+2022-12-20, RSI: 33.63, Position: 0
+2022-12-21, RSI: 39.73, Position: 0
+2022-12-22, RSI: 36.08, Position: 0
+2022-12-23, RSI: 35.68, Position: 0
+2022-12-27, RSI: 33.66, Position: 0
+2022-12-28, RSI: 29.71, Position: 0
+2022-12-28, Placing BUY for size: 274 (retry 0)
+2022-12-28, 📈 BUY SIGNAL placed with size 274
+2022-12-29, BUY EXECUTED at 127.99 for 274 units
+2022-12-29, RSI: 36.85, Position: 274
+2022-12-30, RSI: 37.46, Position: 274
+2023-01-03, RSI: 32.33, Position: 274
+2023-01-04, RSI: 34.88, Position: 274
+2023-01-05, RSI: 33.47, Position: 274
+2023-01-06, RSI: 42.12, Position: 274
+2023-01-09, RSI: 43.04, Position: 274
+2023-01-10, RSI: 44.08, Position: 274
+2023-01-11, RSI: 48.89, Position: 274
+2023-01-12, RSI: 48.76, Position: 274
+2023-01-13, RSI: 51.14, Position: 274
+2023-01-13, 🔁 CLOSING LONG: RSI crossed above 50
+2023-01-17, SELL EXECUTED at 134.83 for -274 units
+2023-01-17, ⚠️ Contract fallback used: 1
+2023-01-17, 📦 TRADE LOGGED: contracts=1, pnl=1874.1610870361328
+2023-01-17, RSI: 53.19, Position: 0
+2023-01-18, RSI: 51.74, Position: 0
+2023-01-19, RSI: 51.86, Position: 0
+2023-01-20, RSI: 56.70, Position: 0
+2023-01-23, RSI: 61.85, Position: 0
+2023-01-24, RSI: 63.88, Position: 0
+2023-01-25, RSI: 62.20, Position: 0
+2023-01-26, RSI: 65.28, Position: 0
+2023-01-27, RSI: 67.92, Position: 0
+2023-01-30, RSI: 60.54, Position: 0
+2023-01-31, RSI: 62.48, Position: 0
+2023-02-01, RSI: 64.15, Position: 0
+2023-02-02, RSI: 70.77, Position: 0
+2023-02-02, Placing SELL for size: 240 (retry 0)
+2023-02-02, 📉 SELL SIGNAL placed with size 240
+2023-02-03, SELL EXECUTED at 148.03 for -240 units
+2023-02-03, RSI: 74.27, Position: -240
+2023-02-06, RSI: 67.70, Position: -240
+2023-02-07, RSI: 70.65, Position: -240
+2023-02-08, RSI: 64.71, Position: -240
+2023-02-09, RSI: 62.53, Position: -240
+2023-02-10, RSI: 62.71, Position: -240
+2023-02-13, RSI: 66.26, Position: -240
+2023-02-14, RSI: 64.74, Position: -240
+2023-02-15, RSI: 67.38, Position: -240
+2023-02-16, RSI: 63.49, Position: -240
+2023-02-17, RSI: 60.78, Position: -240
+2023-02-21, RSI: 52.35, Position: -240
+2023-02-22, RSI: 53.09, Position: -240
+2023-02-23, RSI: 53.97, Position: -240
+2023-02-24, RSI: 48.59, Position: -240
+2023-02-24, 🔁 CLOSING SHORT: RSI crossed below 50
+2023-02-27, BUY EXECUTED at 147.71 for 240 units
+2023-02-27, ⚠️ Contract fallback used: 1
+2023-02-27, 📦 TRADE LOGGED: contracts=1, pnl=76.798095703125
+2023-02-27, RSI: 50.96, Position: 0
+2023-02-28, RSI: 49.92, Position: 0
+2023-03-01, RSI: 45.76, Position: 0
+2023-03-02, RSI: 47.12, Position: 0
+2023-03-03, RSI: 56.98, Position: 0
+2023-03-06, RSI: 61.24, Position: 0
+2023-03-07, RSI: 56.45, Position: 0
+2023-03-08, RSI: 58.44, Position: 0
+2023-03-09, RSI: 53.69, Position: 0
+2023-03-10, RSI: 49.70, Position: 0
+2023-03-13, RSI: 53.23, Position: 0
+2023-03-14, RSI: 56.75, Position: 0
+2023-03-15, RSI: 57.40, Position: 0
+2023-03-16, RSI: 61.82, Position: 0
+2023-03-17, RSI: 59.83, Position: 0
+2023-03-20, RSI: 63.41, Position: 0
+2023-03-21, RSI: 65.97, Position: 0
+2023-03-22, RSI: 62.35, Position: 0
+2023-03-23, RSI: 63.96, Position: 0
+2023-03-24, RSI: 65.86, Position: 0
+2023-03-27, RSI: 60.73, Position: 0
+2023-03-28, RSI: 59.14, Position: 0
+2023-03-29, RSI: 64.14, Position: 0
+2023-03-30, RSI: 66.39, Position: 0
+2023-03-31, RSI: 69.67, Position: 0
+2023-04-03, RSI: 71.19, Position: 0
+2023-04-03, Placing SELL for size: 218 (retry 0)
+2023-04-03, 📉 SELL SIGNAL placed with size 218
+2023-04-04, SELL EXECUTED at 166.60 for -218 units
+2023-04-04, RSI: 69.60, Position: -218
+2023-04-05, RSI: 64.24, Position: -218
+2023-04-06, RSI: 65.61, Position: -218
+2023-04-10, RSI: 58.55, Position: -218
+2023-04-11, RSI: 55.53, Position: -218
+2023-04-12, RSI: 53.84, Position: -218
+2023-04-13, RSI: 63.27, Position: -218
+2023-04-14, RSI: 62.39, Position: -218
+2023-04-17, RSI: 62.42, Position: -218
+2023-04-18, RSI: 64.45, Position: -218
+2023-04-19, RSI: 66.29, Position: -218
+2023-04-20, RSI: 63.31, Position: -218
+2023-04-21, RSI: 58.60, Position: -218
+2023-04-24, RSI: 59.23, Position: -218
+2023-04-25, RSI: 54.77, Position: -218
+2023-04-26, RSI: 54.74, Position: -218
+2023-04-27, RSI: 64.08, Position: -218
+2023-04-28, RSI: 66.13, Position: -218
+2023-05-01, RSI: 65.84, Position: -218
+2023-05-02, RSI: 62.43, Position: -218
+2023-05-03, RSI: 59.02, Position: -218
+2023-05-04, RSI: 54.16, Position: -218
+2023-05-05, RSI: 67.62, Position: -218
+2023-05-08, RSI: 67.43, Position: -218
+2023-05-09, RSI: 62.69, Position: -218
+2023-05-10, RSI: 65.40, Position: -218
+2023-05-11, RSI: 65.68, Position: -218
+2023-05-12, RSI: 62.26, Position: -218
+2023-05-15, RSI: 60.81, Position: -218
+2023-05-16, RSI: 60.81, Position: -218
+2023-05-17, RSI: 62.08, Position: -218
+2023-05-18, RSI: 66.52, Position: -218
+2023-05-19, RSI: 66.71, Position: -218
+2023-05-22, RSI: 63.24, Position: -218
+2023-05-23, RSI: 54.80, Position: -218
+2023-05-24, RSI: 55.48, Position: -218
+2023-05-25, RSI: 58.25, Position: -218
+2023-05-26, RSI: 63.45, Position: -218
+2023-05-30, RSI: 66.86, Position: -218
+2023-05-31, RSI: 66.68, Position: -218
+2023-06-01, RSI: 71.37, Position: -218
+2023-06-02, RSI: 72.63, Position: -218
+2023-06-05, RSI: 67.54, Position: -218
+2023-06-06, RSI: 66.20, Position: -218
+2023-06-07, RSI: 61.25, Position: -218
+2023-06-08, RSI: 66.57, Position: -218
+2023-06-09, RSI: 67.26, Position: -218
+2023-06-12, RSI: 71.79, Position: -218
+2023-06-13, RSI: 70.02, Position: -218
+2023-06-14, RSI: 71.04, Position: -218
+2023-06-15, RSI: 74.11, Position: -218
+2023-06-16, RSI: 69.89, Position: -218
+2023-06-20, RSI: 70.04, Position: -218
+2023-06-21, RSI: 65.87, Position: -218
+2023-06-22, RSI: 71.22, Position: -218
+2023-06-23, RSI: 69.97, Position: -218
+2023-06-26, RSI: 64.63, Position: -218
+2023-06-27, RSI: 69.58, Position: -218
+2023-06-28, RSI: 71.42, Position: -218
+2023-06-29, RSI: 71.94, Position: -218
+2023-06-30, RSI: 77.61, Position: -218
+2023-07-03, RSI: 72.19, Position: -218
+2023-07-05, RSI: 68.35, Position: -218
+2023-07-06, RSI: 69.10, Position: -218
+2023-07-07, RSI: 65.17, Position: -218
+2023-07-10, RSI: 58.60, Position: -218
+2023-07-11, RSI: 57.02, Position: -218
+2023-07-12, RSI: 60.67, Position: -218
+2023-07-13, RSI: 62.24, Position: -218
+2023-07-14, RSI: 62.56, Position: -218
+2023-07-17, RSI: 68.73, Position: -218
+2023-07-18, RSI: 67.78, Position: -218
+2023-07-19, RSI: 70.12, Position: -218
+2023-07-20, RSI: 63.04, Position: -218
+2023-07-21, RSI: 59.15, Position: -218
+2023-07-24, RSI: 60.91, Position: -218
+2023-07-25, RSI: 62.78, Position: -218
+2023-07-26, RSI: 64.61, Position: -218
+2023-07-27, RSI: 59.98, Position: -218
+2023-07-28, RSI: 65.43, Position: -218
+2023-07-31, RSI: 66.59, Position: -218
+2023-08-01, RSI: 63.47, Position: -218
+2023-08-02, RSI: 53.71, Position: -218
+2023-08-03, RSI: 49.86, Position: -218
+2023-08-03, 🔁 CLOSING SHORT: RSI crossed below 50
+2023-08-04, BUY EXECUTED at 185.52 for 218 units
+2023-08-04, ⚠️ Contract fallback used: 1
+2023-08-04, 📦 TRADE LOGGED: contracts=1, pnl=-4124.559600830078
+2023-08-04, RSI: 33.20, Position: 0
+2023-08-07, RSI: 29.56, Position: 0
+2023-08-07, Placing BUY for size: 182 (retry 0)
+2023-08-07, 📈 BUY SIGNAL placed with size 182
+2023-08-08, BUY EXECUTED at 179.69 for 182 units
+2023-08-08, RSI: 31.99, Position: 182
+2023-08-09, RSI: 30.10, Position: 182
+2023-08-10, RSI: 29.84, Position: 182
+2023-08-11, RSI: 29.61, Position: 182
+2023-08-14, RSI: 34.55, Position: 182
+2023-08-15, RSI: 31.67, Position: 182
+2023-08-16, RSI: 30.47, Position: 182
+2023-08-17, RSI: 27.23, Position: 182
+2023-08-18, RSI: 28.79, Position: 182
+2023-08-21, RSI: 33.03, Position: 182
+2023-08-22, RSI: 37.18, Position: 182
+2023-08-23, RSI: 47.07, Position: 182
+2023-08-24, RSI: 39.01, Position: 182
+2023-08-25, RSI: 43.88, Position: 182
+2023-08-28, RSI: 47.10, Position: 182
+2023-08-29, RSI: 54.15, Position: 182
+2023-08-29, 🔁 CLOSING LONG: RSI crossed above 50
+2023-08-30, SELL EXECUTED at 184.94 for -182 units
+2023-08-30, ⚠️ Contract fallback used: 1
+2023-08-30, 📦 TRADE LOGGED: contracts=1, pnl=955.5
+2023-08-30, RSI: 59.39, Position: 0
+2023-08-31, RSI: 59.70, Position: 0
+2023-09-01, RSI: 61.95, Position: 0
+2023-09-05, RSI: 62.29, Position: 0
+2023-09-06, RSI: 48.88, Position: 0
+2023-09-07, RSI: 41.33, Position: 0
+2023-09-08, RSI: 42.44, Position: 0
+2023-09-11, RSI: 44.59, Position: 0
+2023-09-12, RSI: 40.38, Position: 0
+2023-09-13, RSI: 37.76, Position: 0
+2023-09-14, RSI: 40.79, Position: 0
+2023-09-15, RSI: 39.79, Position: 0
+2023-09-18, RSI: 45.59, Position: 0
+2023-09-19, RSI: 47.61, Position: 0
+2023-09-20, RSI: 42.13, Position: 0
+2023-09-21, RSI: 39.97, Position: 0
+2023-09-22, RSI: 41.75, Position: 0
+2023-09-25, RSI: 44.40, Position: 0
+2023-09-26, RSI: 38.39, Position: 0
+2023-09-27, RSI: 36.42, Position: 0
+2023-09-28, RSI: 37.01, Position: 0
+2023-09-29, RSI: 38.25, Position: 0
+2023-10-02, RSI: 44.03, Position: 0
+2023-10-03, RSI: 41.79, Position: 0
+2023-10-04, RSI: 44.63, Position: 0
+2023-10-05, RSI: 47.36, Position: 0
+2023-10-06, RSI: 52.58, Position: 0
+2023-10-09, RSI: 55.34, Position: 0
+2023-10-10, RSI: 53.99, Position: 0
+2023-10-11, RSI: 56.68, Position: 0
+2023-10-12, RSI: 58.37, Position: 0
+2023-10-13, RSI: 53.75, Position: 0
+2023-10-16, RSI: 53.43, Position: 0
+2023-10-17, RSI: 49.61, Position: 0
+2023-10-18, RSI: 46.62, Position: 0
+2023-10-19, RSI: 45.75, Position: 0
+2023-10-20, RSI: 40.30, Position: 0
+2023-10-23, RSI: 40.65, Position: 0
+2023-10-24, RSI: 42.01, Position: 0
+2023-10-25, RSI: 37.14, Position: 0
+2023-10-26, RSI: 30.33, Position: 0
+2023-10-27, RSI: 34.42, Position: 0
+2023-10-30, RSI: 40.30, Position: 0
+2023-10-31, RSI: 41.61, Position: 0
+2023-11-01, RSI: 49.54, Position: 0
+2023-11-02, RSI: 56.67, Position: 0
+2023-11-03, RSI: 54.55, Position: 0
+2023-11-06, RSI: 59.16, Position: 0
+2023-11-07, RSI: 63.21, Position: 0
+2023-11-08, RSI: 64.76, Position: 0
+2023-11-09, RSI: 63.46, Position: 0
+2023-11-10, RSI: 69.00, Position: 0
+2023-11-13, RSI: 64.76, Position: 0
+2023-11-14, RSI: 68.23, Position: 0
+2023-11-15, RSI: 68.94, Position: 0
+2023-11-16, RSI: 71.03, Position: 0
+2023-11-16, Placing SELL for size: 176 (retry 0)
+2023-11-16, 📉 SELL SIGNAL placed with size 176
+2023-11-17, SELL EXECUTED at 190.25 for -176 units
+2023-11-17, RSI: 70.97, Position: -176
+2023-11-20, RSI: 73.13, Position: -176
+2023-11-21, RSI: 70.52, Position: -176
+2023-11-22, RSI: 71.43, Position: -176
+2023-11-24, RSI: 67.00, Position: -176
+2023-11-27, RSI: 66.40, Position: -176
+2023-11-28, RSI: 67.46, Position: -176
+2023-11-29, RSI: 63.81, Position: -176
+2023-11-30, RSI: 64.96, Position: -176
+2023-12-01, RSI: 67.43, Position: -176
+2023-12-04, RSI: 60.92, Position: -176
+2023-12-05, RSI: 68.21, Position: -176
+2023-12-06, RSI: 64.63, Position: -176
+2023-12-07, RSI: 67.85, Position: -176
+2023-12-08, RSI: 70.02, Position: -176
+2023-12-11, RSI: 62.09, Position: -176
+2023-12-12, RSI: 64.70, Position: -176
+2023-12-13, RSI: 69.49, Position: -176
+2023-12-14, RSI: 69.69, Position: -176
+2023-12-15, RSI: 67.93, Position: -176
+2023-12-18, RSI: 62.61, Position: -176
+2023-12-19, RSI: 64.48, Position: -176
+2023-12-20, RSI: 58.18, Position: -176
+2023-12-21, RSI: 57.75, Position: -176
+2023-12-22, RSI: 54.61, Position: -176
+2023-12-26, RSI: 53.03, Position: -176
+2023-12-27, RSI: 53.29, Position: -176
+2023-12-28, RSI: 54.48, Position: -176
+2023-12-29, RSI: 51.06, Position: -176
+2024-01-02, RSI: 35.37, Position: -176
+2024-01-02, 🔁 CLOSING SHORT: RSI crossed below 50
+2024-01-03, BUY EXECUTED at 184.22 for 176 units
+2024-01-03, ⚠️ Contract fallback used: 1
+2024-01-03, 📦 TRADE LOGGED: contracts=1, pnl=1061.27978515625
+2024-01-03, RSI: 33.16, Position: 0
+2024-01-04, RSI: 29.78, Position: 0
+2024-01-04, Placing BUY for size: 189 (retry 0)
+2024-01-04, 📈 BUY SIGNAL placed with size 189
+2024-01-05, BUY EXECUTED at 181.99 for 189 units
+2024-01-05, RSI: 28.79, Position: 189
+2024-01-08, RSI: 41.34, Position: 189
+2024-01-09, RSI: 40.60, Position: 189
+2024-01-10, RSI: 43.33, Position: 189
+2024-01-11, RSI: 42.14, Position: 189
+2024-01-12, RSI: 43.06, Position: 189
+2024-01-16, RSI: 38.46, Position: 189
+2024-01-17, RSI: 36.71, Position: 189
+2024-01-18, RSI: 51.59, Position: 189
+2024-01-18, 🔁 CLOSING LONG: RSI crossed above 50
+2024-01-19, SELL EXECUTED at 189.33 for -189 units
+2024-01-19, ⚠️ Contract fallback used: 1
+2024-01-19, 📦 TRADE LOGGED: contracts=1, pnl=1387.2593078613281
+2024-01-19, RSI: 56.96, Position: 0
+2024-01-22, RSI: 60.69, Position: 0
+2024-01-23, RSI: 62.62, Position: 0
+2024-01-24, RSI: 60.92, Position: 0
+2024-01-25, RSI: 60.07, Position: 0
+2024-01-26, RSI: 55.62, Position: 0
+2024-01-29, RSI: 53.93, Position: 0
+2024-01-30, RSI: 45.88, Position: 0
+2024-01-31, RSI: 39.60, Position: 0
+2024-02-01, RSI: 45.07, Position: 0
+2024-02-02, RSI: 43.34, Position: 0
+2024-02-05, RSI: 47.30, Position: 0
+2024-02-06, RSI: 50.59, Position: 0
+2024-02-07, RSI: 50.81, Position: 0
+2024-02-08, RSI: 48.46, Position: 0
+2024-02-09, RSI: 49.68, Position: 0
+2024-02-12, RSI: 45.93, Position: 0
+2024-02-13, RSI: 41.72, Position: 0
+2024-02-14, RSI: 40.05, Position: 0
+2024-02-15, RSI: 39.49, Position: 0
+2024-02-16, RSI: 36.58, Position: 0
+2024-02-20, RSI: 35.23, Position: 0
+2024-02-21, RSI: 37.74, Position: 0
+2024-02-22, RSI: 44.05, Position: 0
+2024-02-23, RSI: 40.10, Position: 0
+2024-02-26, RSI: 37.44, Position: 0
+2024-02-27, RSI: 41.92, Position: 0
+2024-02-28, RSI: 39.42, Position: 0
+2024-02-29, RSI: 38.07, Position: 0
+2024-03-01, RSI: 35.90, Position: 0
+2024-03-04, RSI: 28.59, Position: 0
+2024-03-04, Placing BUY for size: 203 (retry 0)
+2024-03-04, 📈 BUY SIGNAL placed with size 203
+2024-03-05, BUY EXECUTED at 170.76 for 203 units
+2024-03-05, RSI: 23.06, Position: 203
+2024-03-06, RSI: 22.13, Position: 203
+2024-03-07, RSI: 22.02, Position: 203
+2024-03-08, RSI: 27.80, Position: 203
+2024-03-11, RSI: 33.96, Position: 203
+2024-03-12, RSI: 35.37, Position: 203
+2024-03-13, RSI: 32.14, Position: 203
+2024-03-14, RSI: 37.61, Position: 203
+2024-03-15, RSI: 36.96, Position: 203
+2024-03-18, RSI: 40.19, Position: 203
+2024-03-19, RSI: 46.53, Position: 203
+2024-03-20, RSI: 52.48, Position: 203
+2024-03-20, 🔁 CLOSING LONG: RSI crossed above 50
+2024-03-21, SELL EXECUTED at 177.05 for -203 units
+2024-03-21, ⚠️ Contract fallback used: 1
+2024-03-21, 📦 TRADE LOGGED: contracts=1, pnl=1276.8717346191406
+2024-03-21, RSI: 39.23, Position: 0
+2024-03-22, RSI: 41.22, Position: 0
+2024-03-25, RSI: 39.05, Position: 0
+2024-03-26, RSI: 37.37, Position: 0
+2024-03-27, RSI: 45.39, Position: 0
+2024-03-28, RSI: 42.41, Position: 0
+2024-04-01, RSI: 40.17, Position: 0
+2024-04-02, RSI: 38.37, Position: 0
+2024-04-03, RSI: 40.33, Position: 0
+2024-04-04, RSI: 38.96, Position: 0
+2024-04-05, RSI: 40.93, Position: 0
+2024-04-08, RSI: 38.92, Position: 0
+2024-04-09, RSI: 42.22, Position: 0
+2024-04-10, RSI: 38.73, Position: 0
+2024-04-11, RSI: 54.35, Position: 0
+2024-04-12, RSI: 56.82, Position: 0
+2024-04-15, RSI: 49.46, Position: 0
+2024-04-16, RSI: 44.18, Position: 0
+2024-04-17, RSI: 42.16, Position: 0
+2024-04-18, RSI: 40.76, Position: 0
+2024-04-19, RSI: 37.89, Position: 0
+2024-04-22, RSI: 39.77, Position: 0
+2024-04-23, RSI: 42.15, Position: 0
+2024-04-24, RSI: 46.70, Position: 0
+2024-04-25, RSI: 48.48, Position: 0
+2024-04-26, RSI: 47.32, Position: 0
+2024-04-29, RSI: 55.48, Position: 0
+2024-04-30, RSI: 49.28, Position: 0
+2024-05-01, RSI: 47.42, Position: 0
+2024-05-02, RSI: 54.16, Position: 0
+2024-05-03, RSI: 66.84, Position: 0
+2024-05-06, RSI: 63.78, Position: 0
+2024-05-07, RSI: 64.50, Position: 0
+2024-05-08, RSI: 64.87, Position: 0
+2024-05-09, RSI: 66.89, Position: 0
+2024-05-10, RSI: 63.62, Position: 0
+2024-05-13, RSI: 67.28, Position: 0
+2024-05-14, RSI: 68.49, Position: 0
+2024-05-15, RSI: 70.82, Position: 0
+2024-05-15, Placing SELL for size: 194 (retry 0)
+2024-05-15, 📉 SELL SIGNAL placed with size 194
+2024-05-16, SELL EXECUTED at 190.47 for -194 units
+2024-05-16, RSI: 70.94, Position: -194
+2024-05-17, RSI: 70.97, Position: -194
+2024-05-20, RSI: 72.27, Position: -194
+2024-05-21, RSI: 73.69, Position: -194
+2024-05-22, RSI: 69.45, Position: -194
+2024-05-23, RSI: 59.28, Position: -194
+2024-05-24, RSI: 63.70, Position: -194
+2024-05-28, RSI: 63.71, Position: -194
+2024-05-29, RSI: 64.15, Position: -194
+2024-05-30, RSI: 65.63, Position: -194
+2024-05-31, RSI: 67.04, Position: -194
+2024-06-03, RSI: 69.53, Position: -194
+2024-06-04, RSI: 69.97, Position: -194
+2024-06-05, RSI: 72.04, Position: -194
+2024-06-06, RSI: 67.47, Position: -194
+2024-06-07, RSI: 70.91, Position: -194
+2024-06-10, RSI: 60.18, Position: -194
+2024-06-11, RSI: 75.22, Position: -194
+2024-06-12, RSI: 78.85, Position: -194
+2024-06-13, RSI: 79.49, Position: -194
+2024-06-14, RSI: 75.79, Position: -194
+2024-06-17, RSI: 78.38, Position: -194
+2024-06-18, RSI: 73.56, Position: -194
+2024-06-20, RSI: 65.21, Position: -194
+2024-06-21, RSI: 61.63, Position: -194
+2024-06-24, RSI: 62.29, Position: -194
+2024-06-25, RSI: 63.27, Position: -194
+2024-06-26, RSI: 67.36, Position: -194
+2024-06-27, RSI: 68.14, Position: -194
+2024-06-28, RSI: 61.66, Position: -194
+2024-07-01, RSI: 67.52, Position: -194
+2024-07-02, RSI: 70.32, Position: -194
+2024-07-03, RSI: 71.29, Position: -194
+2024-07-05, RSI: 74.63, Position: -194
+2024-07-08, RSI: 75.58, Position: -194
+2024-07-09, RSI: 76.13, Position: -194
+2024-07-10, RSI: 78.74, Position: -194
+2024-07-11, RSI: 68.58, Position: -194
+2024-07-12, RSI: 70.81, Position: -194
+2024-07-15, RSI: 73.44, Position: -194
+2024-07-16, RSI: 73.72, Position: -194
+2024-07-17, RSI: 63.59, Position: -194
+2024-07-18, RSI: 56.92, Position: -194
+2024-07-19, RSI: 57.05, Position: -194
+2024-07-22, RSI: 56.54, Position: -194
+2024-07-23, RSI: 57.76, Position: -194
+2024-07-24, RSI: 48.69, Position: -194
+2024-07-24, 🔁 CLOSING SHORT: RSI crossed below 50
+2024-07-25, BUY EXECUTED at 218.93 for 194 units
+2024-07-25, ⚠️ Contract fallback used: 1
+2024-07-25, 📦 TRADE LOGGED: contracts=1, pnl=-5521.238342285156
+2024-07-25, RSI: 47.39, Position: 0
+2024-07-26, RSI: 48.06, Position: 0
+2024-07-29, RSI: 48.48, Position: 0
+2024-07-30, RSI: 49.36, Position: 0
+2024-07-31, RSI: 54.30, Position: 0
+2024-08-01, RSI: 48.52, Position: 0
+2024-08-02, RSI: 50.79, Position: 0
+2024-08-05, RSI: 38.02, Position: 0
+2024-08-06, RSI: 36.14, Position: 0
+2024-08-07, RSI: 40.19, Position: 0
+2024-08-08, RSI: 45.24, Position: 0
+2024-08-09, RSI: 49.12, Position: 0
+2024-08-12, RSI: 50.77, Position: 0
+2024-08-13, RSI: 55.31, Position: 0
+2024-08-14, RSI: 55.83, Position: 0
+2024-08-15, RSI: 59.28, Position: 0
+2024-08-16, RSI: 60.75, Position: 0
+2024-08-19, RSI: 60.46, Position: 0
+2024-08-20, RSI: 61.22, Position: 0
+2024-08-21, RSI: 60.99, Position: 0
+2024-08-22, RSI: 57.21, Position: 0
+2024-08-23, RSI: 60.47, Position: 0
+2024-08-26, RSI: 60.94, Position: 0
+2024-08-27, RSI: 62.16, Position: 0
+2024-08-28, RSI: 58.60, Position: 0
+2024-08-29, RSI: 63.43, Position: 0
+2024-08-30, RSI: 61.58, Position: 0
+2024-09-03, RSI: 49.34, Position: 0
+2024-09-04, RSI: 46.28, Position: 0
+2024-09-05, RSI: 48.99, Position: 0
+2024-09-06, RSI: 46.42, Position: 0
+2024-09-09, RSI: 46.59, Position: 0
+2024-09-10, RSI: 45.19, Position: 0
+2024-09-11, RSI: 50.33, Position: 0
+2024-09-12, RSI: 50.55, Position: 0
+2024-09-13, RSI: 49.98, Position: 0
+2024-09-16, RSI: 39.05, Position: 0
+2024-09-17, RSI: 40.13, Position: 0
+2024-09-18, RSI: 48.26, Position: 0
+2024-09-19, RSI: 60.40, Position: 0
+2024-09-20, RSI: 59.18, Position: 0
+2024-09-23, RSI: 56.02, Position: 0
+2024-09-24, RSI: 57.29, Position: 0
+2024-09-25, RSI: 55.37, Position: 0
+2024-09-26, RSI: 57.15, Position: 0
+2024-09-27, RSI: 57.58, Position: 0
+2024-09-30, RSI: 64.88, Position: 0
+2024-10-01, RSI: 52.26, Position: 0
+2024-10-02, RSI: 53.09, Position: 0
+2024-10-03, RSI: 51.23, Position: 0
+2024-10-04, RSI: 53.03, Position: 0
+2024-10-07, RSI: 44.95, Position: 0
+2024-10-08, RSI: 51.33, Position: 0
+2024-10-09, RSI: 56.36, Position: 0
+2024-10-10, RSI: 55.54, Position: 0
+2024-10-11, RSI: 53.06, Position: 0
+2024-10-14, RSI: 58.12, Position: 0
+2024-10-15, RSI: 61.19, Position: 0
+2024-10-16, RSI: 57.51, Position: 0
+2024-10-17, RSI: 58.00, Position: 0
+2024-10-18, RSI: 61.64, Position: 0
+2024-10-21, RSI: 63.41, Position: 0
+2024-10-22, RSI: 62.12, Position: 0
+2024-10-23, RSI: 52.59, Position: 0
+2024-10-24, RSI: 52.27, Position: 0
+2024-10-25, RSI: 53.62, Position: 0
+2024-10-28, RSI: 56.74, Position: 0
+2024-10-29, RSI: 57.16, Position: 0
+2024-10-30, RSI: 50.20, Position: 0
+2024-10-31, RSI: 43.51, Position: 0
+2024-11-01, RSI: 39.45, Position: 0
+2024-11-04, RSI: 38.30, Position: 0
+2024-11-05, RSI: 41.26, Position: 0
+2024-11-06, RSI: 40.20, Position: 0
+2024-11-07, RSI: 49.29, Position: 0
+2024-11-08, RSI: 48.43, Position: 0
+2024-11-11, RSI: 44.05, Position: 0
+2024-11-12, RSI: 44.05, Position: 0
+2024-11-13, RSI: 45.90, Position: 0
+2024-11-14, RSI: 51.86, Position: 0
+2024-11-15, RSI: 46.17, Position: 0
+2024-11-18, RSI: 51.54, Position: 0
+2024-11-19, RSI: 51.99, Position: 0
+2024-11-20, RSI: 53.27, Position: 0
+2024-11-21, RSI: 52.27, Position: 0
+2024-11-22, RSI: 54.83, Position: 0
+2024-11-25, RSI: 59.98, Position: 0
+2024-11-26, RSI: 63.27, Position: 0
+2024-11-27, RSI: 62.94, Position: 0
+2024-11-29, RSI: 66.43, Position: 0
+2024-12-02, RSI: 69.36, Position: 0
+2024-12-03, RSI: 72.81, Position: 0
+2024-12-03, Placing SELL for size: 131 (retry 0)
+2024-12-03, 📉 SELL SIGNAL placed with size 131
+2024-12-04, SELL EXECUTED at 242.87 for -131 units
+2024-12-04, RSI: 73.19, Position: -131
+2024-12-05, RSI: 73.23, Position: -131
+2024-12-06, RSI: 72.57, Position: -131
+2024-12-09, RSI: 76.93, Position: -131
+2024-12-10, RSI: 77.92, Position: -131
+2024-12-11, RSI: 73.66, Position: -131
+2024-12-12, RSI: 75.33, Position: -131
+2024-12-13, RSI: 75.52, Position: -131
+2024-12-16, RSI: 78.61, Position: -131
+2024-12-17, RSI: 80.79, Position: -131
+2024-12-18, RSI: 64.90, Position: -131
+2024-12-19, RSI: 67.13, Position: -131
+2024-12-20, RSI: 72.26, Position: -131
+2024-12-23, RSI: 73.01, Position: -131
+2024-12-24, RSI: 75.68, Position: -131
+2024-12-26, RSI: 76.39, Position: -131
+2024-12-27, RSI: 67.58, Position: -131
+2024-12-30, RSI: 60.19, Position: -131
+2024-12-31, RSI: 56.68, Position: -131
+2024-12-31, Final PnL accumulated: -64577.13
+2024-12-31, Total raw trades recorded: 35
+2024-12-31, ✅ GOOD TRADE [0]: contracts=1, pnl=4347.096569061279
+2024-12-31, ✅ GOOD TRADE [1]: contracts=1, pnl=2972.9739990234375
+2024-12-31, ✅ GOOD TRADE [2]: contracts=1, pnl=-7686.732223510742
+2024-12-31, ✅ GOOD TRADE [3]: contracts=1, pnl=-134.39666748046875
+2024-12-31, ✅ GOOD TRADE [4]: contracts=1, pnl=970.1627655029297
+2024-12-31, ✅ GOOD TRADE [5]: contracts=1, pnl=332.47447967529297
+2024-12-31, ✅ GOOD TRADE [6]: contracts=1, pnl=980.9375
+2024-12-31, ✅ GOOD TRADE [7]: contracts=1, pnl=1573.6008911132812
+2024-12-31, ✅ GOOD TRADE [8]: contracts=1, pnl=-17753.5417842865
+2024-12-31, ✅ GOOD TRADE [9]: contracts=1, pnl=-78.34228134155273
+2024-12-31, ✅ GOOD TRADE [10]: contracts=1, pnl=-596.132640838623
+2024-12-31, ✅ GOOD TRADE [11]: contracts=1, pnl=183.29720306396484
+2024-12-31, ✅ GOOD TRADE [12]: contracts=1, pnl=5101.796382904053
+2024-12-31, ✅ GOOD TRADE [13]: contracts=1, pnl=602.2172355651855
+2024-12-31, ✅ GOOD TRADE [14]: contracts=1, pnl=-6585.322227478027
+2024-12-31, ✅ GOOD TRADE [15]: contracts=1, pnl=-5832.762908935547
+2024-12-31, ✅ GOOD TRADE [16]: contracts=1, pnl=-5249.141658782959
+2024-12-31, ✅ GOOD TRADE [17]: contracts=1, pnl=6094.956787109375
+2024-12-31, ✅ GOOD TRADE [18]: contracts=1, pnl=-16633.651809692383
+2024-12-31, ✅ GOOD TRADE [19]: contracts=1, pnl=2789.2354736328125
+2024-12-31, ✅ GOOD TRADE [20]: contracts=1, pnl=-24635.226516723633
+2024-12-31, ✅ GOOD TRADE [21]: contracts=1, pnl=2596.920654296875
+2024-12-31, ✅ GOOD TRADE [22]: contracts=1, pnl=470.1221618652344
+2024-12-31, ✅ GOOD TRADE [23]: contracts=1, pnl=-4040.6396484375
+2024-12-31, ✅ GOOD TRADE [24]: contracts=1, pnl=-3444.241241455078
+2024-12-31, ✅ GOOD TRADE [25]: contracts=1, pnl=-28.139877319335938
+2024-12-31, ✅ GOOD TRADE [26]: contracts=1, pnl=2119.2789916992188
+2024-12-31, ✅ GOOD TRADE [27]: contracts=1, pnl=1874.1610870361328
+2024-12-31, ✅ GOOD TRADE [28]: contracts=1, pnl=76.798095703125
+2024-12-31, ✅ GOOD TRADE [29]: contracts=1, pnl=-4124.559600830078
+2024-12-31, ✅ GOOD TRADE [30]: contracts=1, pnl=955.5
+2024-12-31, ✅ GOOD TRADE [31]: contracts=1, pnl=1061.27978515625
+2024-12-31, ✅ GOOD TRADE [32]: contracts=1, pnl=1387.2593078613281
+2024-12-31, ✅ GOOD TRADE [33]: contracts=1, pnl=1276.8717346191406
+2024-12-31, ✅ GOOD TRADE [34]: contracts=1, pnl=-5521.238342285156
+2024-12-31, ⚠️ Not enough close data to compute returns. Skipping return-based metrics.
+2024-12-31, 🚨 Report generation failed: division by zero
+2024-12-31, Stopping strategy and closing log file.
