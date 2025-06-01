@@ -1,0 +1,75 @@
+aapl_rsi_metrics.csv
+aapl_rsi_report.pdf
+aapl_rsi_strategy_logs.txt
+main.py
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+
+# Logs and runtime files
+*.log
+*.out
+*.err
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Environment and config
+.env
+.env.*
+secrets.json
+config.yaml
+config.yml
+
+# Cache directories
+.cache/
+__pycache__/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Test artifacts
+.coverage
+.tox/
+.pytest_cache/
+
+# Reports
+*.html
+*.pdf
+
+# GitHub-specific
+.gitattributes
+.gitmodules
+
