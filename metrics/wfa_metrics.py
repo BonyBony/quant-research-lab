@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import vectorbt as vbt
+import matplotlib.pyplot as plt
 from typing import Dict, List
 
 def compute_sharpe(returns: pd.Series, annualization_factor: int = 252) -> float:
